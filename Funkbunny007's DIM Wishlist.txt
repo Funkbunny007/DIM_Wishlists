@@ -4085,6 +4085,42 @@ dimwishlist:item=981450701&perks=1194056669,1359896290,732557052,1482024992
 dimwishlist:item=2029899814&perks=1194056669,1359896290,732557052,1482024992
 dimwishlist:item=2386208942&perks=1194056669,1359896290,732557052,1482024992
 
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332) GOD ROLL: , FLEXIBLE STRING, COMPACT ARROW SHAFT, EXPLOSIVE HEAD, MEGANEURA
+//notes:-- God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,657025441,3365897133,16392701,4067834857
+dimwishlist:item=784540300&perks=2152442764,1941225610,3365897133,16392701,4067834857
+dimwishlist:item=784540300&perks=657025441,3365897133,16392701,4067834857
+dimwishlist:item=784540300&perks=1941225610,3365897133,16392701,4067834857
+dimwishlist:item=784540301&perks=2152442764,657025441,3365897133,16392701,4067834857
+dimwishlist:item=784540301&perks=2152442764,1941225610,3365897133,16392701,4067834857
+dimwishlist:item=784540301&perks=657025441,3365897133,16392701,4067834857
+dimwishlist:item=784540301&perks=1941225610,3365897133,16392701,4067834857
+dimwishlist:item=784540302&perks=2152442764,657025441,3365897133,16392701,4067834857
+dimwishlist:item=784540302&perks=2152442764,1941225610,3365897133,16392701,4067834857
+dimwishlist:item=784540302&perks=657025441,3365897133,16392701,4067834857
+dimwishlist:item=784540302&perks=1941225610,3365897133,16392701,4067834857
+dimwishlist:item=784540303&perks=2152442764,657025441,3365897133,16392701,4067834857
+dimwishlist:item=784540303&perks=2152442764,1941225610,3365897133,16392701,4067834857
+dimwishlist:item=784540303&perks=657025441,3365897133,16392701,4067834857
+dimwishlist:item=784540303&perks=1941225610,3365897133,16392701,4067834857
+dimwishlist:item=3481382332&perks=2152442764,657025441,3365897133,16392701,4067834857
+dimwishlist:item=3481382332&perks=2152442764,1941225610,3365897133,16392701,4067834857
+dimwishlist:item=3481382332&perks=657025441,3365897133,16392701,4067834857
+dimwishlist:item=3481382332&perks=1941225610,3365897133,16392701,4067834857
+
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332) GOD ROLL: , POLYMER STRING, FIBERGLASS ARROW SHAFT, ARCHER'S TEMPO, SWASHBUCKLER
+//notes:-- God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,4082225868,201365942,3429800428,852209214
+dimwishlist:item=784540300&perks=4082225868,201365942,3429800428,852209214
+dimwishlist:item=784540301&perks=2152442764,4082225868,201365942,3429800428,852209214
+dimwishlist:item=784540301&perks=4082225868,201365942,3429800428,852209214
+dimwishlist:item=784540302&perks=2152442764,4082225868,201365942,3429800428,852209214
+dimwishlist:item=784540302&perks=4082225868,201365942,3429800428,852209214
+dimwishlist:item=784540303&perks=2152442764,4082225868,201365942,3429800428,852209214
+dimwishlist:item=784540303&perks=4082225868,201365942,3429800428,852209214
+dimwishlist:item=3481382332&perks=2152442764,4082225868,201365942,3429800428,852209214
+dimwishlist:item=3481382332&perks=4082225868,201365942,3429800428,852209214
+
 // KRAIT (2852052802) GOD ROLL: , ARROWHEAD BRAKE, APPENDED MAG, SUBSISTENCE, HEADSTONE
 //notes:-- God Roll --\nUse: PVE\nPVE Tier: B\nPVP Tier: B\nMasterwork(s): \n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.fanbyte.com/destiny-2/guides/destiny-2-krait-god-roll-how-to-get-it\n------------------------------------------\nPVE God Roll\nArrowhead Brake\nAppended Mag\nSubsistence or Overflow\nHeadstone or One For All\n- - - - - - - - - - - - - - - - - - - - - \nPVP God Roll\nCorkscrew Rifling or Hammer-Forged Rifling\nArmor-Piercing Rounds\nSteady Hands\nMoving Target\n------------------------------------------\nKeywords: #PVE_BTier\n
 dimwishlist:item=2852052802&perks=124408337,1820235745,1087426260,839105230
@@ -11358,6 +11394,91 @@ dimwishlist:item=2386208942&perks=3218042543,3713215006,2749775325,1840239774
 dimwishlist:item=981450701&perks=3218042543,3400784728,2749775325,1840239774
 dimwishlist:item=2029899814&perks=3218042543,3400784728,2749775325,1840239774
 dimwishlist:item=2386208942&perks=3218042543,3400784728,2749775325,1840239774
+
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332) NEAR GOD ROLL: , FLEXIBLE STRING, COMPACT ARROW SHAFT, SHOOT TO LOOT, MEGANEURA
+//notes:-- Near God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,657025441,3700496672,16392701,4067834857
+dimwishlist:item=784540300&perks=2152442764,1941225610,3700496672,16392701,4067834857
+dimwishlist:item=784540300&perks=657025441,3700496672,16392701,4067834857
+dimwishlist:item=784540300&perks=1941225610,3700496672,16392701,4067834857
+dimwishlist:item=784540301&perks=2152442764,657025441,3700496672,16392701,4067834857
+dimwishlist:item=784540301&perks=2152442764,1941225610,3700496672,16392701,4067834857
+dimwishlist:item=784540301&perks=657025441,3700496672,16392701,4067834857
+dimwishlist:item=784540301&perks=1941225610,3700496672,16392701,4067834857
+dimwishlist:item=784540302&perks=2152442764,657025441,3700496672,16392701,4067834857
+dimwishlist:item=784540302&perks=2152442764,1941225610,3700496672,16392701,4067834857
+dimwishlist:item=784540302&perks=657025441,3700496672,16392701,4067834857
+dimwishlist:item=784540302&perks=1941225610,3700496672,16392701,4067834857
+dimwishlist:item=784540303&perks=2152442764,657025441,3700496672,16392701,4067834857
+dimwishlist:item=784540303&perks=2152442764,1941225610,3700496672,16392701,4067834857
+dimwishlist:item=784540303&perks=657025441,3700496672,16392701,4067834857
+dimwishlist:item=784540303&perks=1941225610,3700496672,16392701,4067834857
+dimwishlist:item=3481382332&perks=2152442764,657025441,3700496672,16392701,4067834857
+dimwishlist:item=3481382332&perks=2152442764,1941225610,3700496672,16392701,4067834857
+dimwishlist:item=3481382332&perks=657025441,3700496672,16392701,4067834857
+dimwishlist:item=3481382332&perks=1941225610,3700496672,16392701,4067834857
+
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332) NEAR GOD ROLL: , FLEXIBLE STRING, COMPACT ARROW SHAFT, ARCHER'S TEMPO, MEGANEURA
+//notes:-- Near God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,657025441,201365942,16392701,4067834857
+dimwishlist:item=784540300&perks=2152442764,1941225610,201365942,16392701,4067834857
+dimwishlist:item=784540300&perks=657025441,201365942,16392701,4067834857
+dimwishlist:item=784540300&perks=1941225610,201365942,16392701,4067834857
+dimwishlist:item=784540301&perks=2152442764,657025441,201365942,16392701,4067834857
+dimwishlist:item=784540301&perks=2152442764,1941225610,201365942,16392701,4067834857
+dimwishlist:item=784540301&perks=657025441,201365942,16392701,4067834857
+dimwishlist:item=784540301&perks=1941225610,201365942,16392701,4067834857
+dimwishlist:item=784540302&perks=2152442764,657025441,201365942,16392701,4067834857
+dimwishlist:item=784540302&perks=2152442764,1941225610,201365942,16392701,4067834857
+dimwishlist:item=784540302&perks=657025441,201365942,16392701,4067834857
+dimwishlist:item=784540302&perks=1941225610,201365942,16392701,4067834857
+dimwishlist:item=784540303&perks=2152442764,657025441,201365942,16392701,4067834857
+dimwishlist:item=784540303&perks=2152442764,1941225610,201365942,16392701,4067834857
+dimwishlist:item=784540303&perks=657025441,201365942,16392701,4067834857
+dimwishlist:item=784540303&perks=1941225610,201365942,16392701,4067834857
+dimwishlist:item=3481382332&perks=2152442764,657025441,201365942,16392701,4067834857
+dimwishlist:item=3481382332&perks=2152442764,1941225610,201365942,16392701,4067834857
+dimwishlist:item=3481382332&perks=657025441,201365942,16392701,4067834857
+dimwishlist:item=3481382332&perks=1941225610,201365942,16392701,4067834857
+
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332) NEAR GOD ROLL: , FLEXIBLE STRING, COMPACT ARROW SHAFT, SHOOT TO LOOT, JOLTING FEEDBACK
+//notes:-- Near God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,3966416502,3700496672,16392701,4067834857
+dimwishlist:item=784540300&perks=3966416502,3700496672,16392701,4067834857
+dimwishlist:item=784540301&perks=2152442764,3966416502,3700496672,16392701,4067834857
+dimwishlist:item=784540301&perks=3966416502,3700496672,16392701,4067834857
+dimwishlist:item=784540302&perks=2152442764,3966416502,3700496672,16392701,4067834857
+dimwishlist:item=784540302&perks=3966416502,3700496672,16392701,4067834857
+dimwishlist:item=784540303&perks=2152442764,3966416502,3700496672,16392701,4067834857
+dimwishlist:item=784540303&perks=3966416502,3700496672,16392701,4067834857
+dimwishlist:item=3481382332&perks=2152442764,3966416502,3700496672,16392701,4067834857
+dimwishlist:item=3481382332&perks=3966416502,3700496672,16392701,4067834857
+
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332) NEAR GOD ROLL: , FLEXIBLE STRING, COMPACT ARROW SHAFT, ARCHER'S TEMPO, JOLTING FEEDBACK
+//notes:-- Near God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,3966416502,201365942,16392701,4067834857
+dimwishlist:item=784540300&perks=3966416502,201365942,16392701,4067834857
+dimwishlist:item=784540301&perks=2152442764,3966416502,201365942,16392701,4067834857
+dimwishlist:item=784540301&perks=3966416502,201365942,16392701,4067834857
+dimwishlist:item=784540302&perks=2152442764,3966416502,201365942,16392701,4067834857
+dimwishlist:item=784540302&perks=3966416502,201365942,16392701,4067834857
+dimwishlist:item=784540303&perks=2152442764,3966416502,201365942,16392701,4067834857
+dimwishlist:item=784540303&perks=3966416502,201365942,16392701,4067834857
+dimwishlist:item=3481382332&perks=2152442764,3966416502,201365942,16392701,4067834857
+dimwishlist:item=3481382332&perks=3966416502,201365942,16392701,4067834857
+
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332) NEAR GOD ROLL: , POLYMER STRING, FIBERGLASS ARROW SHAFT, IMPULSE AMPLIFIER, SWASHBUCKLER
+//notes:-- Near God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,4082225868,951095735,3429800428,852209214
+dimwishlist:item=784540300&perks=4082225868,951095735,3429800428,852209214
+dimwishlist:item=784540301&perks=2152442764,4082225868,951095735,3429800428,852209214
+dimwishlist:item=784540301&perks=4082225868,951095735,3429800428,852209214
+dimwishlist:item=784540302&perks=2152442764,4082225868,951095735,3429800428,852209214
+dimwishlist:item=784540302&perks=4082225868,951095735,3429800428,852209214
+dimwishlist:item=784540303&perks=2152442764,4082225868,951095735,3429800428,852209214
+dimwishlist:item=784540303&perks=4082225868,951095735,3429800428,852209214
+dimwishlist:item=3481382332&perks=2152442764,4082225868,951095735,3429800428,852209214
+dimwishlist:item=3481382332&perks=4082225868,951095735,3429800428,852209214
 
 // LAST THURSDAY (3813721211) NEAR GOD ROLL: , ARROWHEAD BRAKE, FLARED MAGWELL, DEMOLITIONIST, SUBSISTENCE
 //notes:-- Near God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/last-thursday-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Arrowhead Break\nMagazine: Flared Magwell\nPerk 1: Demolitionist (also good: Subsistence or Strategist)\nPerk 2: Dragonfly (also good Frenzy or Binary Orbit)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Break\nMagazine: Ricochet Rounds\nPerk 1: Rapid-Hit (also good: Built to Last or Transcendent Moment)\nPerk 2: Headseeker\nMasterwork: Range\n------------------------------------------\nKeywords: #PVE_ATier\n
@@ -20949,6 +21070,97 @@ dimwishlist:item=2386208942&perks=3400784728,2749775325,1840239774
 dimwishlist:item=981450701&perks=1359896290,732557052,1482024992
 dimwishlist:item=2029899814&perks=1359896290,732557052,1482024992
 dimwishlist:item=2386208942&perks=1359896290,732557052,1482024992
+
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332): , FLEXIBLE STRING, COMPACT ARROW SHAFT, EXPLOSIVE HEAD
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,3365897133,16392701,4067834857
+dimwishlist:item=784540300&perks=3365897133,16392701,4067834857
+dimwishlist:item=784540301&perks=2152442764,3365897133,16392701,4067834857
+dimwishlist:item=784540301&perks=3365897133,16392701,4067834857
+dimwishlist:item=784540302&perks=2152442764,3365897133,16392701,4067834857
+dimwishlist:item=784540302&perks=3365897133,16392701,4067834857
+dimwishlist:item=784540303&perks=2152442764,3365897133,16392701,4067834857
+dimwishlist:item=784540303&perks=3365897133,16392701,4067834857
+dimwishlist:item=3481382332&perks=2152442764,3365897133,16392701,4067834857
+dimwishlist:item=3481382332&perks=3365897133,16392701,4067834857
+
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332): , FLEXIBLE STRING, COMPACT ARROW SHAFT, SHOOT TO LOOT
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,3700496672,16392701,4067834857
+dimwishlist:item=784540300&perks=3700496672,16392701,4067834857
+dimwishlist:item=784540301&perks=2152442764,3700496672,16392701,4067834857
+dimwishlist:item=784540301&perks=3700496672,16392701,4067834857
+dimwishlist:item=784540302&perks=2152442764,3700496672,16392701,4067834857
+dimwishlist:item=784540302&perks=3700496672,16392701,4067834857
+dimwishlist:item=784540303&perks=2152442764,3700496672,16392701,4067834857
+dimwishlist:item=784540303&perks=3700496672,16392701,4067834857
+dimwishlist:item=3481382332&perks=2152442764,3700496672,16392701,4067834857
+dimwishlist:item=3481382332&perks=3700496672,16392701,4067834857
+
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332): , FLEXIBLE STRING, COMPACT ARROW SHAFT, ARCHER'S TEMPO
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,201365942,16392701,4067834857
+dimwishlist:item=784540300&perks=201365942,16392701,4067834857
+dimwishlist:item=784540301&perks=2152442764,201365942,16392701,4067834857
+dimwishlist:item=784540301&perks=201365942,16392701,4067834857
+dimwishlist:item=784540302&perks=2152442764,201365942,16392701,4067834857
+dimwishlist:item=784540302&perks=201365942,16392701,4067834857
+dimwishlist:item=784540303&perks=2152442764,201365942,16392701,4067834857
+dimwishlist:item=784540303&perks=201365942,16392701,4067834857
+dimwishlist:item=3481382332&perks=2152442764,201365942,16392701,4067834857
+dimwishlist:item=3481382332&perks=201365942,16392701,4067834857
+
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332): , FLEXIBLE STRING, COMPACT ARROW SHAFT, SHOOT TO LOOT
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,3700496672,16392701,4067834857
+dimwishlist:item=784540300&perks=3700496672,16392701,4067834857
+dimwishlist:item=784540301&perks=2152442764,3700496672,16392701,4067834857
+dimwishlist:item=784540301&perks=3700496672,16392701,4067834857
+dimwishlist:item=784540302&perks=2152442764,3700496672,16392701,4067834857
+dimwishlist:item=784540302&perks=3700496672,16392701,4067834857
+dimwishlist:item=784540303&perks=2152442764,3700496672,16392701,4067834857
+dimwishlist:item=784540303&perks=3700496672,16392701,4067834857
+dimwishlist:item=3481382332&perks=2152442764,3700496672,16392701,4067834857
+dimwishlist:item=3481382332&perks=3700496672,16392701,4067834857
+
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332): , FLEXIBLE STRING, COMPACT ARROW SHAFT, ARCHER'S TEMPO
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,201365942,16392701,4067834857
+dimwishlist:item=784540300&perks=201365942,16392701,4067834857
+dimwishlist:item=784540301&perks=2152442764,201365942,16392701,4067834857
+dimwishlist:item=784540301&perks=201365942,16392701,4067834857
+dimwishlist:item=784540302&perks=2152442764,201365942,16392701,4067834857
+dimwishlist:item=784540302&perks=201365942,16392701,4067834857
+dimwishlist:item=784540303&perks=2152442764,201365942,16392701,4067834857
+dimwishlist:item=784540303&perks=201365942,16392701,4067834857
+dimwishlist:item=3481382332&perks=2152442764,201365942,16392701,4067834857
+dimwishlist:item=3481382332&perks=201365942,16392701,4067834857
+
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332): , POLYMER STRING, FIBERGLASS ARROW SHAFT, ARCHER'S TEMPO
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,201365942,3429800428,852209214
+dimwishlist:item=784540300&perks=201365942,3429800428,852209214
+dimwishlist:item=784540301&perks=2152442764,201365942,3429800428,852209214
+dimwishlist:item=784540301&perks=201365942,3429800428,852209214
+dimwishlist:item=784540302&perks=2152442764,201365942,3429800428,852209214
+dimwishlist:item=784540302&perks=201365942,3429800428,852209214
+dimwishlist:item=784540303&perks=2152442764,201365942,3429800428,852209214
+dimwishlist:item=784540303&perks=201365942,3429800428,852209214
+dimwishlist:item=3481382332&perks=2152442764,201365942,3429800428,852209214
+dimwishlist:item=3481382332&perks=201365942,3429800428,852209214
+
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332): , POLYMER STRING, FIBERGLASS ARROW SHAFT, IMPULSE AMPLIFIER
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,951095735,3429800428,852209214
+dimwishlist:item=784540300&perks=951095735,3429800428,852209214
+dimwishlist:item=784540301&perks=2152442764,951095735,3429800428,852209214
+dimwishlist:item=784540301&perks=951095735,3429800428,852209214
+dimwishlist:item=784540302&perks=2152442764,951095735,3429800428,852209214
+dimwishlist:item=784540302&perks=951095735,3429800428,852209214
+dimwishlist:item=784540303&perks=2152442764,951095735,3429800428,852209214
+dimwishlist:item=784540303&perks=951095735,3429800428,852209214
+dimwishlist:item=3481382332&perks=2152442764,951095735,3429800428,852209214
+dimwishlist:item=3481382332&perks=951095735,3429800428,852209214
 
 // KRAIT (2852052802): , ARROWHEAD BRAKE, APPENDED MAG, SUBSISTENCE
 //notes:-- Random Roll --\nUse: PVE\nPVE Tier: B\nPVP Tier: B\nMasterwork(s): \n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.fanbyte.com/destiny-2/guides/destiny-2-krait-god-roll-how-to-get-it\n------------------------------------------\nPVE God Roll\nArrowhead Brake\nAppended Mag\nSubsistence or Overflow\nHeadstone or One For All\n- - - - - - - - - - - - - - - - - - - - - \nPVP God Roll\nCorkscrew Rifling or Hammer-Forged Rifling\nArmor-Piercing Rounds\nSteady Hands\nMoving Target\n------------------------------------------\nKeywords: #PVE_BTier\n
@@ -34877,6 +35089,127 @@ dimwishlist:item=981450701&perks=1194056669,732557052,1482024992
 dimwishlist:item=2029899814&perks=1194056669,732557052,1482024992
 dimwishlist:item=2386208942&perks=1194056669,732557052,1482024992
 
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332): , FLEXIBLE STRING, COMPACT ARROW SHAFT, MEGANEURA
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,657025441,16392701,4067834857
+dimwishlist:item=784540300&perks=2152442764,1941225610,16392701,4067834857
+dimwishlist:item=784540300&perks=657025441,16392701,4067834857
+dimwishlist:item=784540300&perks=1941225610,16392701,4067834857
+dimwishlist:item=784540301&perks=2152442764,657025441,16392701,4067834857
+dimwishlist:item=784540301&perks=2152442764,1941225610,16392701,4067834857
+dimwishlist:item=784540301&perks=657025441,16392701,4067834857
+dimwishlist:item=784540301&perks=1941225610,16392701,4067834857
+dimwishlist:item=784540302&perks=2152442764,657025441,16392701,4067834857
+dimwishlist:item=784540302&perks=2152442764,1941225610,16392701,4067834857
+dimwishlist:item=784540302&perks=657025441,16392701,4067834857
+dimwishlist:item=784540302&perks=1941225610,16392701,4067834857
+dimwishlist:item=784540303&perks=2152442764,657025441,16392701,4067834857
+dimwishlist:item=784540303&perks=2152442764,1941225610,16392701,4067834857
+dimwishlist:item=784540303&perks=657025441,16392701,4067834857
+dimwishlist:item=784540303&perks=1941225610,16392701,4067834857
+dimwishlist:item=3481382332&perks=2152442764,657025441,16392701,4067834857
+dimwishlist:item=3481382332&perks=2152442764,1941225610,16392701,4067834857
+dimwishlist:item=3481382332&perks=657025441,16392701,4067834857
+dimwishlist:item=3481382332&perks=1941225610,16392701,4067834857
+
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332): , FLEXIBLE STRING, COMPACT ARROW SHAFT, MEGANEURA
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,657025441,16392701,4067834857
+dimwishlist:item=784540300&perks=2152442764,1941225610,16392701,4067834857
+dimwishlist:item=784540300&perks=657025441,16392701,4067834857
+dimwishlist:item=784540300&perks=1941225610,16392701,4067834857
+dimwishlist:item=784540301&perks=2152442764,657025441,16392701,4067834857
+dimwishlist:item=784540301&perks=2152442764,1941225610,16392701,4067834857
+dimwishlist:item=784540301&perks=657025441,16392701,4067834857
+dimwishlist:item=784540301&perks=1941225610,16392701,4067834857
+dimwishlist:item=784540302&perks=2152442764,657025441,16392701,4067834857
+dimwishlist:item=784540302&perks=2152442764,1941225610,16392701,4067834857
+dimwishlist:item=784540302&perks=657025441,16392701,4067834857
+dimwishlist:item=784540302&perks=1941225610,16392701,4067834857
+dimwishlist:item=784540303&perks=2152442764,657025441,16392701,4067834857
+dimwishlist:item=784540303&perks=2152442764,1941225610,16392701,4067834857
+dimwishlist:item=784540303&perks=657025441,16392701,4067834857
+dimwishlist:item=784540303&perks=1941225610,16392701,4067834857
+dimwishlist:item=3481382332&perks=2152442764,657025441,16392701,4067834857
+dimwishlist:item=3481382332&perks=2152442764,1941225610,16392701,4067834857
+dimwishlist:item=3481382332&perks=657025441,16392701,4067834857
+dimwishlist:item=3481382332&perks=1941225610,16392701,4067834857
+
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332): , FLEXIBLE STRING, COMPACT ARROW SHAFT, MEGANEURA
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,657025441,16392701,4067834857
+dimwishlist:item=784540300&perks=2152442764,1941225610,16392701,4067834857
+dimwishlist:item=784540300&perks=657025441,16392701,4067834857
+dimwishlist:item=784540300&perks=1941225610,16392701,4067834857
+dimwishlist:item=784540301&perks=2152442764,657025441,16392701,4067834857
+dimwishlist:item=784540301&perks=2152442764,1941225610,16392701,4067834857
+dimwishlist:item=784540301&perks=657025441,16392701,4067834857
+dimwishlist:item=784540301&perks=1941225610,16392701,4067834857
+dimwishlist:item=784540302&perks=2152442764,657025441,16392701,4067834857
+dimwishlist:item=784540302&perks=2152442764,1941225610,16392701,4067834857
+dimwishlist:item=784540302&perks=657025441,16392701,4067834857
+dimwishlist:item=784540302&perks=1941225610,16392701,4067834857
+dimwishlist:item=784540303&perks=2152442764,657025441,16392701,4067834857
+dimwishlist:item=784540303&perks=2152442764,1941225610,16392701,4067834857
+dimwishlist:item=784540303&perks=657025441,16392701,4067834857
+dimwishlist:item=784540303&perks=1941225610,16392701,4067834857
+dimwishlist:item=3481382332&perks=2152442764,657025441,16392701,4067834857
+dimwishlist:item=3481382332&perks=2152442764,1941225610,16392701,4067834857
+dimwishlist:item=3481382332&perks=657025441,16392701,4067834857
+dimwishlist:item=3481382332&perks=1941225610,16392701,4067834857
+
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332): , FLEXIBLE STRING, COMPACT ARROW SHAFT, JOLTING FEEDBACK
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,3966416502,16392701,4067834857
+dimwishlist:item=784540300&perks=3966416502,16392701,4067834857
+dimwishlist:item=784540301&perks=2152442764,3966416502,16392701,4067834857
+dimwishlist:item=784540301&perks=3966416502,16392701,4067834857
+dimwishlist:item=784540302&perks=2152442764,3966416502,16392701,4067834857
+dimwishlist:item=784540302&perks=3966416502,16392701,4067834857
+dimwishlist:item=784540303&perks=2152442764,3966416502,16392701,4067834857
+dimwishlist:item=784540303&perks=3966416502,16392701,4067834857
+dimwishlist:item=3481382332&perks=2152442764,3966416502,16392701,4067834857
+dimwishlist:item=3481382332&perks=3966416502,16392701,4067834857
+
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332): , FLEXIBLE STRING, COMPACT ARROW SHAFT, JOLTING FEEDBACK
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,3966416502,16392701,4067834857
+dimwishlist:item=784540300&perks=3966416502,16392701,4067834857
+dimwishlist:item=784540301&perks=2152442764,3966416502,16392701,4067834857
+dimwishlist:item=784540301&perks=3966416502,16392701,4067834857
+dimwishlist:item=784540302&perks=2152442764,3966416502,16392701,4067834857
+dimwishlist:item=784540302&perks=3966416502,16392701,4067834857
+dimwishlist:item=784540303&perks=2152442764,3966416502,16392701,4067834857
+dimwishlist:item=784540303&perks=3966416502,16392701,4067834857
+dimwishlist:item=3481382332&perks=2152442764,3966416502,16392701,4067834857
+dimwishlist:item=3481382332&perks=3966416502,16392701,4067834857
+
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332): , POLYMER STRING, FIBERGLASS ARROW SHAFT, SWASHBUCKLER
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,4082225868,3429800428,852209214
+dimwishlist:item=784540300&perks=4082225868,3429800428,852209214
+dimwishlist:item=784540301&perks=2152442764,4082225868,3429800428,852209214
+dimwishlist:item=784540301&perks=4082225868,3429800428,852209214
+dimwishlist:item=784540302&perks=2152442764,4082225868,3429800428,852209214
+dimwishlist:item=784540302&perks=4082225868,3429800428,852209214
+dimwishlist:item=784540303&perks=2152442764,4082225868,3429800428,852209214
+dimwishlist:item=784540303&perks=4082225868,3429800428,852209214
+dimwishlist:item=3481382332&perks=2152442764,4082225868,3429800428,852209214
+dimwishlist:item=3481382332&perks=4082225868,3429800428,852209214
+
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332): , POLYMER STRING, FIBERGLASS ARROW SHAFT, SWASHBUCKLER
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,4082225868,3429800428,852209214
+dimwishlist:item=784540300&perks=4082225868,3429800428,852209214
+dimwishlist:item=784540301&perks=2152442764,4082225868,3429800428,852209214
+dimwishlist:item=784540301&perks=4082225868,3429800428,852209214
+dimwishlist:item=784540302&perks=2152442764,4082225868,3429800428,852209214
+dimwishlist:item=784540302&perks=4082225868,3429800428,852209214
+dimwishlist:item=784540303&perks=2152442764,4082225868,3429800428,852209214
+dimwishlist:item=784540303&perks=4082225868,3429800428,852209214
+dimwishlist:item=3481382332&perks=2152442764,4082225868,3429800428,852209214
+dimwishlist:item=3481382332&perks=4082225868,3429800428,852209214
+
 // KRAIT (2852052802): , ARROWHEAD BRAKE, APPENDED MAG, HEADSTONE
 //notes:-- Random Roll --\nUse: PVE\nPVE Tier: B\nPVP Tier: B\nMasterwork(s): \n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.fanbyte.com/destiny-2/guides/destiny-2-krait-god-roll-how-to-get-it\n------------------------------------------\nPVE God Roll\nArrowhead Brake\nAppended Mag\nSubsistence or Overflow\nHeadstone or One For All\n- - - - - - - - - - - - - - - - - - - - - \nPVP God Roll\nCorkscrew Rifling or Hammer-Forged Rifling\nArmor-Piercing Rounds\nSteady Hands\nMoving Target\n------------------------------------------\nKeywords: #PVE_BTier\n
 dimwishlist:item=2852052802&perks=124408337,1087426260,839105230
@@ -48199,6 +48532,127 @@ dimwishlist:item=2386208942&perks=3218042543,3400784728,1840239774
 dimwishlist:item=981450701&perks=1194056669,1359896290,1482024992
 dimwishlist:item=2029899814&perks=1194056669,1359896290,1482024992
 dimwishlist:item=2386208942&perks=1194056669,1359896290,1482024992
+
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332): , FLEXIBLE STRING, EXPLOSIVE HEAD, MEGANEURA
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,657025441,3365897133,4067834857
+dimwishlist:item=784540300&perks=2152442764,1941225610,3365897133,4067834857
+dimwishlist:item=784540300&perks=657025441,3365897133,4067834857
+dimwishlist:item=784540300&perks=1941225610,3365897133,4067834857
+dimwishlist:item=784540301&perks=2152442764,657025441,3365897133,4067834857
+dimwishlist:item=784540301&perks=2152442764,1941225610,3365897133,4067834857
+dimwishlist:item=784540301&perks=657025441,3365897133,4067834857
+dimwishlist:item=784540301&perks=1941225610,3365897133,4067834857
+dimwishlist:item=784540302&perks=2152442764,657025441,3365897133,4067834857
+dimwishlist:item=784540302&perks=2152442764,1941225610,3365897133,4067834857
+dimwishlist:item=784540302&perks=657025441,3365897133,4067834857
+dimwishlist:item=784540302&perks=1941225610,3365897133,4067834857
+dimwishlist:item=784540303&perks=2152442764,657025441,3365897133,4067834857
+dimwishlist:item=784540303&perks=2152442764,1941225610,3365897133,4067834857
+dimwishlist:item=784540303&perks=657025441,3365897133,4067834857
+dimwishlist:item=784540303&perks=1941225610,3365897133,4067834857
+dimwishlist:item=3481382332&perks=2152442764,657025441,3365897133,4067834857
+dimwishlist:item=3481382332&perks=2152442764,1941225610,3365897133,4067834857
+dimwishlist:item=3481382332&perks=657025441,3365897133,4067834857
+dimwishlist:item=3481382332&perks=1941225610,3365897133,4067834857
+
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332): , FLEXIBLE STRING, SHOOT TO LOOT, MEGANEURA
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,657025441,3700496672,4067834857
+dimwishlist:item=784540300&perks=2152442764,1941225610,3700496672,4067834857
+dimwishlist:item=784540300&perks=657025441,3700496672,4067834857
+dimwishlist:item=784540300&perks=1941225610,3700496672,4067834857
+dimwishlist:item=784540301&perks=2152442764,657025441,3700496672,4067834857
+dimwishlist:item=784540301&perks=2152442764,1941225610,3700496672,4067834857
+dimwishlist:item=784540301&perks=657025441,3700496672,4067834857
+dimwishlist:item=784540301&perks=1941225610,3700496672,4067834857
+dimwishlist:item=784540302&perks=2152442764,657025441,3700496672,4067834857
+dimwishlist:item=784540302&perks=2152442764,1941225610,3700496672,4067834857
+dimwishlist:item=784540302&perks=657025441,3700496672,4067834857
+dimwishlist:item=784540302&perks=1941225610,3700496672,4067834857
+dimwishlist:item=784540303&perks=2152442764,657025441,3700496672,4067834857
+dimwishlist:item=784540303&perks=2152442764,1941225610,3700496672,4067834857
+dimwishlist:item=784540303&perks=657025441,3700496672,4067834857
+dimwishlist:item=784540303&perks=1941225610,3700496672,4067834857
+dimwishlist:item=3481382332&perks=2152442764,657025441,3700496672,4067834857
+dimwishlist:item=3481382332&perks=2152442764,1941225610,3700496672,4067834857
+dimwishlist:item=3481382332&perks=657025441,3700496672,4067834857
+dimwishlist:item=3481382332&perks=1941225610,3700496672,4067834857
+
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332): , FLEXIBLE STRING, ARCHER'S TEMPO, MEGANEURA
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,657025441,201365942,4067834857
+dimwishlist:item=784540300&perks=2152442764,1941225610,201365942,4067834857
+dimwishlist:item=784540300&perks=657025441,201365942,4067834857
+dimwishlist:item=784540300&perks=1941225610,201365942,4067834857
+dimwishlist:item=784540301&perks=2152442764,657025441,201365942,4067834857
+dimwishlist:item=784540301&perks=2152442764,1941225610,201365942,4067834857
+dimwishlist:item=784540301&perks=657025441,201365942,4067834857
+dimwishlist:item=784540301&perks=1941225610,201365942,4067834857
+dimwishlist:item=784540302&perks=2152442764,657025441,201365942,4067834857
+dimwishlist:item=784540302&perks=2152442764,1941225610,201365942,4067834857
+dimwishlist:item=784540302&perks=657025441,201365942,4067834857
+dimwishlist:item=784540302&perks=1941225610,201365942,4067834857
+dimwishlist:item=784540303&perks=2152442764,657025441,201365942,4067834857
+dimwishlist:item=784540303&perks=2152442764,1941225610,201365942,4067834857
+dimwishlist:item=784540303&perks=657025441,201365942,4067834857
+dimwishlist:item=784540303&perks=1941225610,201365942,4067834857
+dimwishlist:item=3481382332&perks=2152442764,657025441,201365942,4067834857
+dimwishlist:item=3481382332&perks=2152442764,1941225610,201365942,4067834857
+dimwishlist:item=3481382332&perks=657025441,201365942,4067834857
+dimwishlist:item=3481382332&perks=1941225610,201365942,4067834857
+
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332): , FLEXIBLE STRING, SHOOT TO LOOT, JOLTING FEEDBACK
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,3966416502,3700496672,4067834857
+dimwishlist:item=784540300&perks=3966416502,3700496672,4067834857
+dimwishlist:item=784540301&perks=2152442764,3966416502,3700496672,4067834857
+dimwishlist:item=784540301&perks=3966416502,3700496672,4067834857
+dimwishlist:item=784540302&perks=2152442764,3966416502,3700496672,4067834857
+dimwishlist:item=784540302&perks=3966416502,3700496672,4067834857
+dimwishlist:item=784540303&perks=2152442764,3966416502,3700496672,4067834857
+dimwishlist:item=784540303&perks=3966416502,3700496672,4067834857
+dimwishlist:item=3481382332&perks=2152442764,3966416502,3700496672,4067834857
+dimwishlist:item=3481382332&perks=3966416502,3700496672,4067834857
+
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332): , FLEXIBLE STRING, ARCHER'S TEMPO, JOLTING FEEDBACK
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,3966416502,201365942,4067834857
+dimwishlist:item=784540300&perks=3966416502,201365942,4067834857
+dimwishlist:item=784540301&perks=2152442764,3966416502,201365942,4067834857
+dimwishlist:item=784540301&perks=3966416502,201365942,4067834857
+dimwishlist:item=784540302&perks=2152442764,3966416502,201365942,4067834857
+dimwishlist:item=784540302&perks=3966416502,201365942,4067834857
+dimwishlist:item=784540303&perks=2152442764,3966416502,201365942,4067834857
+dimwishlist:item=784540303&perks=3966416502,201365942,4067834857
+dimwishlist:item=3481382332&perks=2152442764,3966416502,201365942,4067834857
+dimwishlist:item=3481382332&perks=3966416502,201365942,4067834857
+
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332): , POLYMER STRING, ARCHER'S TEMPO, SWASHBUCKLER
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,4082225868,201365942,852209214
+dimwishlist:item=784540300&perks=4082225868,201365942,852209214
+dimwishlist:item=784540301&perks=2152442764,4082225868,201365942,852209214
+dimwishlist:item=784540301&perks=4082225868,201365942,852209214
+dimwishlist:item=784540302&perks=2152442764,4082225868,201365942,852209214
+dimwishlist:item=784540302&perks=4082225868,201365942,852209214
+dimwishlist:item=784540303&perks=2152442764,4082225868,201365942,852209214
+dimwishlist:item=784540303&perks=4082225868,201365942,852209214
+dimwishlist:item=3481382332&perks=2152442764,4082225868,201365942,852209214
+dimwishlist:item=3481382332&perks=4082225868,201365942,852209214
+
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332): , POLYMER STRING, IMPULSE AMPLIFIER, SWASHBUCKLER
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,4082225868,951095735,852209214
+dimwishlist:item=784540300&perks=4082225868,951095735,852209214
+dimwishlist:item=784540301&perks=2152442764,4082225868,951095735,852209214
+dimwishlist:item=784540301&perks=4082225868,951095735,852209214
+dimwishlist:item=784540302&perks=2152442764,4082225868,951095735,852209214
+dimwishlist:item=784540302&perks=4082225868,951095735,852209214
+dimwishlist:item=784540303&perks=2152442764,4082225868,951095735,852209214
+dimwishlist:item=784540303&perks=4082225868,951095735,852209214
+dimwishlist:item=3481382332&perks=2152442764,4082225868,951095735,852209214
+dimwishlist:item=3481382332&perks=4082225868,951095735,852209214
 
 // KRAIT (2852052802): , ARROWHEAD BRAKE, SUBSISTENCE, HEADSTONE
 //notes:-- Random Roll --\nUse: PVE\nPVE Tier: B\nPVP Tier: B\nMasterwork(s): \n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.fanbyte.com/destiny-2/guides/destiny-2-krait-god-roll-how-to-get-it\n------------------------------------------\nPVE God Roll\nArrowhead Brake\nAppended Mag\nSubsistence or Overflow\nHeadstone or One For All\n- - - - - - - - - - - - - - - - - - - - - \nPVP God Roll\nCorkscrew Rifling or Hammer-Forged Rifling\nArmor-Piercing Rounds\nSteady Hands\nMoving Target\n------------------------------------------\nKeywords: #PVE_BTier\n
@@ -62310,6 +62764,127 @@ dimwishlist:item=981450701&perks=1194056669,1359896290,732557052
 dimwishlist:item=2029899814&perks=1194056669,1359896290,732557052
 dimwishlist:item=2386208942&perks=1194056669,1359896290,732557052
 
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332): , COMPACT ARROW SHAFT, EXPLOSIVE HEAD, MEGANEURA
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,657025441,3365897133,16392701
+dimwishlist:item=784540300&perks=2152442764,1941225610,3365897133,16392701
+dimwishlist:item=784540300&perks=657025441,3365897133,16392701
+dimwishlist:item=784540300&perks=1941225610,3365897133,16392701
+dimwishlist:item=784540301&perks=2152442764,657025441,3365897133,16392701
+dimwishlist:item=784540301&perks=2152442764,1941225610,3365897133,16392701
+dimwishlist:item=784540301&perks=657025441,3365897133,16392701
+dimwishlist:item=784540301&perks=1941225610,3365897133,16392701
+dimwishlist:item=784540302&perks=2152442764,657025441,3365897133,16392701
+dimwishlist:item=784540302&perks=2152442764,1941225610,3365897133,16392701
+dimwishlist:item=784540302&perks=657025441,3365897133,16392701
+dimwishlist:item=784540302&perks=1941225610,3365897133,16392701
+dimwishlist:item=784540303&perks=2152442764,657025441,3365897133,16392701
+dimwishlist:item=784540303&perks=2152442764,1941225610,3365897133,16392701
+dimwishlist:item=784540303&perks=657025441,3365897133,16392701
+dimwishlist:item=784540303&perks=1941225610,3365897133,16392701
+dimwishlist:item=3481382332&perks=2152442764,657025441,3365897133,16392701
+dimwishlist:item=3481382332&perks=2152442764,1941225610,3365897133,16392701
+dimwishlist:item=3481382332&perks=657025441,3365897133,16392701
+dimwishlist:item=3481382332&perks=1941225610,3365897133,16392701
+
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332): , COMPACT ARROW SHAFT, SHOOT TO LOOT, MEGANEURA
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,657025441,3700496672,16392701
+dimwishlist:item=784540300&perks=2152442764,1941225610,3700496672,16392701
+dimwishlist:item=784540300&perks=657025441,3700496672,16392701
+dimwishlist:item=784540300&perks=1941225610,3700496672,16392701
+dimwishlist:item=784540301&perks=2152442764,657025441,3700496672,16392701
+dimwishlist:item=784540301&perks=2152442764,1941225610,3700496672,16392701
+dimwishlist:item=784540301&perks=657025441,3700496672,16392701
+dimwishlist:item=784540301&perks=1941225610,3700496672,16392701
+dimwishlist:item=784540302&perks=2152442764,657025441,3700496672,16392701
+dimwishlist:item=784540302&perks=2152442764,1941225610,3700496672,16392701
+dimwishlist:item=784540302&perks=657025441,3700496672,16392701
+dimwishlist:item=784540302&perks=1941225610,3700496672,16392701
+dimwishlist:item=784540303&perks=2152442764,657025441,3700496672,16392701
+dimwishlist:item=784540303&perks=2152442764,1941225610,3700496672,16392701
+dimwishlist:item=784540303&perks=657025441,3700496672,16392701
+dimwishlist:item=784540303&perks=1941225610,3700496672,16392701
+dimwishlist:item=3481382332&perks=2152442764,657025441,3700496672,16392701
+dimwishlist:item=3481382332&perks=2152442764,1941225610,3700496672,16392701
+dimwishlist:item=3481382332&perks=657025441,3700496672,16392701
+dimwishlist:item=3481382332&perks=1941225610,3700496672,16392701
+
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332): , COMPACT ARROW SHAFT, ARCHER'S TEMPO, MEGANEURA
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,657025441,201365942,16392701
+dimwishlist:item=784540300&perks=2152442764,1941225610,201365942,16392701
+dimwishlist:item=784540300&perks=657025441,201365942,16392701
+dimwishlist:item=784540300&perks=1941225610,201365942,16392701
+dimwishlist:item=784540301&perks=2152442764,657025441,201365942,16392701
+dimwishlist:item=784540301&perks=2152442764,1941225610,201365942,16392701
+dimwishlist:item=784540301&perks=657025441,201365942,16392701
+dimwishlist:item=784540301&perks=1941225610,201365942,16392701
+dimwishlist:item=784540302&perks=2152442764,657025441,201365942,16392701
+dimwishlist:item=784540302&perks=2152442764,1941225610,201365942,16392701
+dimwishlist:item=784540302&perks=657025441,201365942,16392701
+dimwishlist:item=784540302&perks=1941225610,201365942,16392701
+dimwishlist:item=784540303&perks=2152442764,657025441,201365942,16392701
+dimwishlist:item=784540303&perks=2152442764,1941225610,201365942,16392701
+dimwishlist:item=784540303&perks=657025441,201365942,16392701
+dimwishlist:item=784540303&perks=1941225610,201365942,16392701
+dimwishlist:item=3481382332&perks=2152442764,657025441,201365942,16392701
+dimwishlist:item=3481382332&perks=2152442764,1941225610,201365942,16392701
+dimwishlist:item=3481382332&perks=657025441,201365942,16392701
+dimwishlist:item=3481382332&perks=1941225610,201365942,16392701
+
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332): , COMPACT ARROW SHAFT, SHOOT TO LOOT, JOLTING FEEDBACK
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,3966416502,3700496672,16392701
+dimwishlist:item=784540300&perks=3966416502,3700496672,16392701
+dimwishlist:item=784540301&perks=2152442764,3966416502,3700496672,16392701
+dimwishlist:item=784540301&perks=3966416502,3700496672,16392701
+dimwishlist:item=784540302&perks=2152442764,3966416502,3700496672,16392701
+dimwishlist:item=784540302&perks=3966416502,3700496672,16392701
+dimwishlist:item=784540303&perks=2152442764,3966416502,3700496672,16392701
+dimwishlist:item=784540303&perks=3966416502,3700496672,16392701
+dimwishlist:item=3481382332&perks=2152442764,3966416502,3700496672,16392701
+dimwishlist:item=3481382332&perks=3966416502,3700496672,16392701
+
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332): , COMPACT ARROW SHAFT, ARCHER'S TEMPO, JOLTING FEEDBACK
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,3966416502,201365942,16392701
+dimwishlist:item=784540300&perks=3966416502,201365942,16392701
+dimwishlist:item=784540301&perks=2152442764,3966416502,201365942,16392701
+dimwishlist:item=784540301&perks=3966416502,201365942,16392701
+dimwishlist:item=784540302&perks=2152442764,3966416502,201365942,16392701
+dimwishlist:item=784540302&perks=3966416502,201365942,16392701
+dimwishlist:item=784540303&perks=2152442764,3966416502,201365942,16392701
+dimwishlist:item=784540303&perks=3966416502,201365942,16392701
+dimwishlist:item=3481382332&perks=2152442764,3966416502,201365942,16392701
+dimwishlist:item=3481382332&perks=3966416502,201365942,16392701
+
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332): , FIBERGLASS ARROW SHAFT, ARCHER'S TEMPO, SWASHBUCKLER
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,4082225868,201365942,3429800428
+dimwishlist:item=784540300&perks=4082225868,201365942,3429800428
+dimwishlist:item=784540301&perks=2152442764,4082225868,201365942,3429800428
+dimwishlist:item=784540301&perks=4082225868,201365942,3429800428
+dimwishlist:item=784540302&perks=2152442764,4082225868,201365942,3429800428
+dimwishlist:item=784540302&perks=4082225868,201365942,3429800428
+dimwishlist:item=784540303&perks=2152442764,4082225868,201365942,3429800428
+dimwishlist:item=784540303&perks=4082225868,201365942,3429800428
+dimwishlist:item=3481382332&perks=2152442764,4082225868,201365942,3429800428
+dimwishlist:item=3481382332&perks=4082225868,201365942,3429800428
+
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332): , FIBERGLASS ARROW SHAFT, IMPULSE AMPLIFIER, SWASHBUCKLER
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=784540300&perks=2152442764,4082225868,951095735,3429800428
+dimwishlist:item=784540300&perks=4082225868,951095735,3429800428
+dimwishlist:item=784540301&perks=2152442764,4082225868,951095735,3429800428
+dimwishlist:item=784540301&perks=4082225868,951095735,3429800428
+dimwishlist:item=784540302&perks=2152442764,4082225868,951095735,3429800428
+dimwishlist:item=784540302&perks=4082225868,951095735,3429800428
+dimwishlist:item=784540303&perks=2152442764,4082225868,951095735,3429800428
+dimwishlist:item=784540303&perks=4082225868,951095735,3429800428
+dimwishlist:item=3481382332&perks=2152442764,4082225868,951095735,3429800428
+dimwishlist:item=3481382332&perks=4082225868,951095735,3429800428
+
 // KRAIT (2852052802): , APPENDED MAG, SUBSISTENCE, HEADSTONE
 //notes:-- Random Roll --\nUse: PVE\nPVE Tier: B\nPVP Tier: B\nMasterwork(s): \n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.fanbyte.com/destiny-2/guides/destiny-2-krait-god-roll-how-to-get-it\n------------------------------------------\nPVE God Roll\nArrowhead Brake\nAppended Mag\nSubsistence or Overflow\nHeadstone or One For All\n- - - - - - - - - - - - - - - - - - - - - \nPVP God Roll\nCorkscrew Rifling or Hammer-Forged Rifling\nArmor-Piercing Rounds\nSteady Hands\nMoving Target\n------------------------------------------\nKeywords: #PVE_BTier\n
 dimwishlist:item=2852052802&perks=124408337,1820235745,1087426260
@@ -70890,6 +71465,14 @@ dimwishlist:item=-1875512595
 dimwishlist:item=-981450701
 dimwishlist:item=-2029899814
 dimwishlist:item=-2386208942
+
+// KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332) CATCHALL: 
+//notes:-- Trash Roll --\n\nPVE Tier: A\nPVP Tier: B\n\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: 
+dimwishlist:item=-784540300
+dimwishlist:item=-784540301
+dimwishlist:item=-784540302
+dimwishlist:item=-784540303
+dimwishlist:item=-3481382332
 
 // KRAIT (2852052802) CATCHALL: 
 //notes:-- Trash Roll --\n\nPVE Tier: B\nPVP Tier: B\n\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.fanbyte.com/destiny-2/guides/destiny-2-krait-god-roll-how-to-get-it\n------------------------------------------\nPVE God Roll\nArrowhead Brake\nAppended Mag\nSubsistence or Overflow\nHeadstone or One For All\n- - - - - - - - - - - - - - - - - - - - - \nPVP God Roll\nCorkscrew Rifling or Hammer-Forged Rifling\nArmor-Piercing Rounds\nSteady Hands\nMoving Target\n------------------------------------------\nKeywords: 
