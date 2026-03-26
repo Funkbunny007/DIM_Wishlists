@@ -4085,6 +4085,21 @@ dimwishlist:item=981450701&perks=1194056669,1359896290,732557052,1482024992
 dimwishlist:item=2029899814&perks=1194056669,1359896290,732557052,1482024992
 dimwishlist:item=2386208942&perks=1194056669,1359896290,732557052,1482024992
 
+// KERAUNIOS (981450701, 2029899814, 2386208942) GOD ROLL: , FLUTED BARREL, LIGHT BATTERY, SHOOT TO LOOT, CHAIN REACTION
+//notes:-- God Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=981450701&perks=2396489472,3700496672,2749775325,1840239774
+dimwishlist:item=2029899814&perks=2396489472,3700496672,2749775325,1840239774
+dimwishlist:item=2386208942&perks=2396489472,3700496672,2749775325,1840239774
+
+// KERAUNIOS (981450701, 2029899814, 2386208942) GOD ROLL: , HAMMER-FORGED RIFLING, PROJECTION FUSE, RAPID HIT, TARGET LOCK
+//notes:-- God Roll --\nUse: PVP\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Range\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVP_ATier\n
+dimwishlist:item=981450701&perks=365154968,247725512,2969185026,3250034553
+dimwishlist:item=981450701&perks=365154968,2578928835,2969185026,3250034553
+dimwishlist:item=2029899814&perks=365154968,247725512,2969185026,3250034553
+dimwishlist:item=2029899814&perks=365154968,2578928835,2969185026,3250034553
+dimwishlist:item=2386208942&perks=365154968,247725512,2969185026,3250034553
+dimwishlist:item=2386208942&perks=365154968,2578928835,2969185026,3250034553
+
 // KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332) GOD ROLL: , FLEXIBLE STRING, COMPACT ARROW SHAFT, EXPLOSIVE HEAD, MEGANEURA
 //notes:-- God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
 dimwishlist:item=784540300&perks=2152442764,657025441,3365897133,16392701,4067834857
@@ -7095,6 +7110,21 @@ dimwishlist:item=4267192886&perks=59871045,2782457288,3523296417,1885400500,1840
 dimwishlist:item=4267192886&perks=557221067,3523296417,1885400500,1840239774
 dimwishlist:item=4267192886&perks=2782457288,3523296417,1885400500,1840239774
 
+// THE BEACON (76739872, 2161618499) GOD ROLL: , FLUTED BARREL, ACCELERATED COILS, ENVIOUS ARSENAL, BAIT AND SWITCH
+//notes:-- God Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-beacon-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Accelerated Coils\nPerk 1: Envious Arsenal or Demolitionist (also good: Lead from Gold)\nPerk 2: Bait and Switch or Reservoir Burst (also good: Burning Ambition)\nMasterwork: Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Lone Wolf\nPerk 2: Closing Time\nMasterwork: Stability\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=76739872&perks=3078487919,3987942396,689005463,1840239774
+dimwishlist:item=2161618499&perks=3078487919,3987942396,689005463,1840239774
+
+// THE BEACON (76739872, 2161618499) GOD ROLL: , FLUTED BARREL, ACCELERATED COILS, DEMOLITIONIST, RESERVOIR BURST
+//notes:-- God Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-beacon-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Accelerated Coils\nPerk 1: Envious Arsenal or Demolitionist (also good: Lead from Gold)\nPerk 2: Bait and Switch or Reservoir Burst (also good: Burning Ambition)\nMasterwork: Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Lone Wolf\nPerk 2: Closing Time\nMasterwork: Stability\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=76739872&perks=1427256713,3523296417,689005463,1840239774
+dimwishlist:item=2161618499&perks=1427256713,3523296417,689005463,1840239774
+
+// THE BEACON (76739872, 2161618499) GOD ROLL: , SMALLBORE, PROJECTION FUSE, LONE WOLF, CLOSING TIME
+//notes:-- God Roll --\nUse: PVP\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Stability\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-beacon-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Accelerated Coils\nPerk 1: Envious Arsenal or Demolitionist (also good: Lead from Gold)\nPerk 2: Bait and Switch or Reservoir Burst (also good: Burning Ambition)\nMasterwork: Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Lone Wolf\nPerk 2: Closing Time\nMasterwork: Stability\n------------------------------------------\nKeywords: #PVP_ATier\n
+dimwishlist:item=76739872&perks=1194056669,2579169598,2969185026,1482024992
+dimwishlist:item=2161618499&perks=1194056669,2579169598,2969185026,1482024992
+
 // THE CALL (3947966653) GOD ROLL: , QUICK LAUNCH, TACTICAL MAG, LEAD FROM GOLD, ONE FOR ALL
 //notes:-- God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Velocity\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-call-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Quick Launch\nMagazine: Tactical Mag\nPerk 1: Lead from Gold (also good: Demolitionist)\nPerk 2: One for All (also good: Desperate Measures)\nMasterwork: VelocitPvE Roll: All-Around\nBarrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Beacon Rounds\nPerk 2: Vorpal Weapon\nMasterwork: Velocity\n- - - - - - - - - - - - - - - - - - - - - \nPvP god rolls\nPvE Roll: All-Around\nBarrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Beacon Rounds\nPerk 2: Vorpal Weapon\nMasterwork: Velocity\n------------------------------------------\nKeywords: #PVE_ATier\n
 dimwishlist:item=3947966653&perks=4049631843,1556840489,106909392,3525010810
@@ -7682,6 +7712,20 @@ dimwishlist:item=3635232671&perks=3911709647,1546142478,3731491409,2635532173,32
 dimwishlist:item=3635232671&perks=3911709647,1546142478,3731491409,3142289711,3250034553
 dimwishlist:item=3635232671&perks=1546142478,3731491409,2635532173,3250034553
 dimwishlist:item=3635232671&perks=1546142478,3731491409,3142289711,3250034553
+
+// TRIPLE LAUREATE (1605599021, 2908653246) GOD ROLL: , SMALLBORE, FLARED MAGWELL, CRYSTALLINE CORPSEBLOOM, CHAOS RESHAPED
+//notes:-- God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=1605599021&perks=1607056502,3640170453,2922950962,3230963543,1482024992
+dimwishlist:item=1605599021&perks=3640170453,2922950962,3230963543,1482024992
+dimwishlist:item=2908653246&perks=1607056502,3640170453,2922950962,3230963543,1482024992
+dimwishlist:item=2908653246&perks=3640170453,2922950962,3230963543,1482024992
+
+// TRIPLE LAUREATE (1605599021, 2908653246) GOD ROLL: , HAMMER-FORGED RIFLING, RICOCHET ROUNDS, SLIDESHOT, OPENING SHOT
+//notes:-- God Roll --\nUse: PVP\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Range / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVP_ATier\n
+dimwishlist:item=1605599021&perks=1702976605,47981717,3161816588,1885400500,3250034553
+dimwishlist:item=1605599021&perks=47981717,3161816588,1885400500,3250034553
+dimwishlist:item=2908653246&perks=1702976605,47981717,3161816588,1885400500,3250034553
+dimwishlist:item=2908653246&perks=47981717,3161816588,1885400500,3250034553
 
 // TRUTHTELLER (447296102, 1946491241, 3252697558) GOD ROLL: , SMART DRIFT CONTROL, SPIKE GRENADES, FEEDING FRENZY, DEMOLITIONIST
 //notes:-- God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: D\nMasterwork(s): \n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.fanbyte.com/destiny-2/guides/destiny-2-truthteller-god-roll\n------------------------------------------\nTruthteller God Roll\nSmart Drift Controls or Linear Compensator\nSpike Grenades\nFeeding Frenzy\nDemolitionist or Swashbuckler\n- - - - - - - - - - - - - - - - - - - - - \nD Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
@@ -11395,6 +11439,36 @@ dimwishlist:item=981450701&perks=3218042543,3400784728,2749775325,1840239774
 dimwishlist:item=2029899814&perks=3218042543,3400784728,2749775325,1840239774
 dimwishlist:item=2386208942&perks=3218042543,3400784728,2749775325,1840239774
 
+// KERAUNIOS (981450701, 2029899814, 2386208942) NEAR GOD ROLL: , FLUTED BARREL, LIGHT BATTERY, SHOOT TO LOOT, ROLLING STORM
+//notes:-- Near God Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=981450701&perks=3218042543,3700496672,2749775325,1840239774
+dimwishlist:item=2029899814&perks=3218042543,3700496672,2749775325,1840239774
+dimwishlist:item=2386208942&perks=3218042543,3700496672,2749775325,1840239774
+
+// KERAUNIOS (981450701, 2029899814, 2386208942) NEAR GOD ROLL: , FLUTED BARREL, LIGHT BATTERY, SHOOT TO LOOT, JOLTING FEEDBACK
+//notes:-- Near God Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=981450701&perks=3966416502,3700496672,2749775325,1840239774
+dimwishlist:item=2029899814&perks=3966416502,3700496672,2749775325,1840239774
+dimwishlist:item=2386208942&perks=3966416502,3700496672,2749775325,1840239774
+
+// KERAUNIOS (981450701, 2029899814, 2386208942) NEAR GOD ROLL: , FLUTED BARREL, LIGHT BATTERY, SUPERCHARGED MAGAZINE, CHAIN REACTION
+//notes:-- Near God Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=981450701&perks=2396489472,1511100135,2749775325,1840239774
+dimwishlist:item=2029899814&perks=2396489472,1511100135,2749775325,1840239774
+dimwishlist:item=2386208942&perks=2396489472,1511100135,2749775325,1840239774
+
+// KERAUNIOS (981450701, 2029899814, 2386208942) NEAR GOD ROLL: , FLUTED BARREL, LIGHT BATTERY, SUPERCHARGED MAGAZINE, ROLLING STORM
+//notes:-- Near God Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=981450701&perks=3218042543,3700496672,2749775325,1840239774
+dimwishlist:item=2029899814&perks=3218042543,3700496672,2749775325,1840239774
+dimwishlist:item=2386208942&perks=3218042543,3700496672,2749775325,1840239774
+
+// KERAUNIOS (981450701, 2029899814, 2386208942) NEAR GOD ROLL: , FLUTED BARREL, LIGHT BATTERY, SUPERCHARGED MAGAZINE, JOLTING FEEDBACK
+//notes:-- Near God Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=981450701&perks=3966416502,3700496672,2749775325,1840239774
+dimwishlist:item=2029899814&perks=3966416502,3700496672,2749775325,1840239774
+dimwishlist:item=2386208942&perks=3966416502,3700496672,2749775325,1840239774
+
 // KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332) NEAR GOD ROLL: , FLEXIBLE STRING, COMPACT ARROW SHAFT, SHOOT TO LOOT, MEGANEURA
 //notes:-- Near God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
 dimwishlist:item=784540300&perks=2152442764,657025441,3700496672,16392701,4067834857
@@ -13628,6 +13702,21 @@ dimwishlist:item=4267192886&perks=59871045,3966416502,3865257976,3230963543,1840
 dimwishlist:item=4267192886&perks=3966416502,2848615171,3230963543,1840239774
 dimwishlist:item=4267192886&perks=3966416502,3865257976,3230963543,1840239774
 
+// THE BEACON (76739872, 2161618499) NEAR GOD ROLL: , FLUTED BARREL, ACCELERATED COILS, DEMOLITIONIST, BURNING AMBITION
+//notes:-- Near God Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-beacon-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Accelerated Coils\nPerk 1: Envious Arsenal or Demolitionist (also good: Lead from Gold)\nPerk 2: Bait and Switch or Reservoir Burst (also good: Burning Ambition)\nMasterwork: Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Lone Wolf\nPerk 2: Closing Time\nMasterwork: Stability\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=76739872&perks=2890807135,3523296417,689005463,1840239774
+dimwishlist:item=2161618499&perks=2890807135,3523296417,689005463,1840239774
+
+// THE BEACON (76739872, 2161618499) NEAR GOD ROLL: , FLUTED BARREL, ACCELERATED COILS, LEAD FROM GOLD, RESERVOIR BURST
+//notes:-- Near God Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-beacon-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Accelerated Coils\nPerk 1: Envious Arsenal or Demolitionist (also good: Lead from Gold)\nPerk 2: Bait and Switch or Reservoir Burst (also good: Burning Ambition)\nMasterwork: Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Lone Wolf\nPerk 2: Closing Time\nMasterwork: Stability\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=76739872&perks=1427256713,1556840489,689005463,1840239774
+dimwishlist:item=2161618499&perks=1427256713,1556840489,689005463,1840239774
+
+// THE BEACON (76739872, 2161618499) NEAR GOD ROLL: , FLUTED BARREL, ACCELERATED COILS, LEAD FROM GOLD, BURNING AMBITION
+//notes:-- Near God Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-beacon-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Accelerated Coils\nPerk 1: Envious Arsenal or Demolitionist (also good: Lead from Gold)\nPerk 2: Bait and Switch or Reservoir Burst (also good: Burning Ambition)\nMasterwork: Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Lone Wolf\nPerk 2: Closing Time\nMasterwork: Stability\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=76739872&perks=2890807135,1556840489,689005463,1840239774
+dimwishlist:item=2161618499&perks=2890807135,1556840489,689005463,1840239774
+
 // THE CALL (3947966653) NEAR GOD ROLL: , QUICK LAUNCH, TACTICAL MAG, LEAD FROM GOLD, DESPERATE MEASURES
 //notes:-- Near God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Velocity\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-call-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Quick Launch\nMagazine: Tactical Mag\nPerk 1: Lead from Gold (also good: Demolitionist)\nPerk 2: One for All (also good: Desperate Measures)\nMasterwork: VelocitPvE Roll: All-Around\nBarrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Beacon Rounds\nPerk 2: Vorpal Weapon\nMasterwork: Velocity\n- - - - - - - - - - - - - - - - - - - - - \nPvP god rolls\nPvE Roll: All-Around\nBarrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Beacon Rounds\nPerk 2: Vorpal Weapon\nMasterwork: Velocity\n------------------------------------------\nKeywords: #PVE_ATier\n
 dimwishlist:item=3947966653&perks=2109543898,1556840489,106909392,3525010810
@@ -14035,6 +14124,70 @@ dimwishlist:item=3635232671&perks=3911709647,1546142478,2450788523,2635532173,32
 dimwishlist:item=3635232671&perks=3911709647,1546142478,2450788523,3142289711,3250034553
 dimwishlist:item=3635232671&perks=1546142478,2450788523,2635532173,3250034553
 dimwishlist:item=3635232671&perks=1546142478,2450788523,3142289711,3250034553
+
+// TRIPLE LAUREATE (1605599021, 2908653246) NEAR GOD ROLL: , SMALLBORE, FLARED MAGWELL, CRYSTALLINE CORPSEBLOOM, TRENCH BARREL
+//notes:-- Near God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=1605599021&perks=1607056502,806159697,2922950962,3230963543,1482024992
+dimwishlist:item=1605599021&perks=1607056502,2360754333,2922950962,3230963543,1482024992
+dimwishlist:item=1605599021&perks=806159697,2922950962,3230963543,1482024992
+dimwishlist:item=1605599021&perks=2360754333,2922950962,3230963543,1482024992
+dimwishlist:item=2908653246&perks=1607056502,806159697,2922950962,3230963543,1482024992
+dimwishlist:item=2908653246&perks=1607056502,2360754333,2922950962,3230963543,1482024992
+dimwishlist:item=2908653246&perks=806159697,2922950962,3230963543,1482024992
+dimwishlist:item=2908653246&perks=2360754333,2922950962,3230963543,1482024992
+
+// TRIPLE LAUREATE (1605599021, 2908653246) NEAR GOD ROLL: , SMALLBORE, FLARED MAGWELL, CRYSTALLINE CORPSEBLOOM, ONE-TWO PUNCH
+//notes:-- Near God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=1605599021&perks=1607056502,2679249093,2922950962,3230963543,1482024992
+dimwishlist:item=1605599021&perks=2679249093,2922950962,3230963543,1482024992
+dimwishlist:item=2908653246&perks=1607056502,2679249093,2922950962,3230963543,1482024992
+dimwishlist:item=2908653246&perks=2679249093,2922950962,3230963543,1482024992
+
+// TRIPLE LAUREATE (1605599021, 2908653246) NEAR GOD ROLL: , SMALLBORE, FLARED MAGWELL, GRAVE ROBBER, CHAOS RESHAPED
+//notes:-- Near God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=1605599021&perks=1607056502,3640170453,1631667848,3230963543,1482024992
+dimwishlist:item=1605599021&perks=3640170453,1631667848,3230963543,1482024992
+dimwishlist:item=2908653246&perks=1607056502,3640170453,1631667848,3230963543,1482024992
+dimwishlist:item=2908653246&perks=3640170453,1631667848,3230963543,1482024992
+
+// TRIPLE LAUREATE (1605599021, 2908653246) NEAR GOD ROLL: , SMALLBORE, FLARED MAGWELL, GRAVE ROBBER, TRENCH BARREL
+//notes:-- Near God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=1605599021&perks=1607056502,806159697,2922950962,3230963543,1482024992
+dimwishlist:item=1605599021&perks=1607056502,2360754333,2922950962,3230963543,1482024992
+dimwishlist:item=1605599021&perks=806159697,2922950962,3230963543,1482024992
+dimwishlist:item=1605599021&perks=2360754333,2922950962,3230963543,1482024992
+dimwishlist:item=2908653246&perks=1607056502,806159697,2922950962,3230963543,1482024992
+dimwishlist:item=2908653246&perks=1607056502,2360754333,2922950962,3230963543,1482024992
+dimwishlist:item=2908653246&perks=806159697,2922950962,3230963543,1482024992
+dimwishlist:item=2908653246&perks=2360754333,2922950962,3230963543,1482024992
+
+// TRIPLE LAUREATE (1605599021, 2908653246) NEAR GOD ROLL: , SMALLBORE, FLARED MAGWELL, GRAVE ROBBER, ONE-TWO PUNCH
+//notes:-- Near God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=1605599021&perks=1607056502,2679249093,2922950962,3230963543,1482024992
+dimwishlist:item=1605599021&perks=2679249093,2922950962,3230963543,1482024992
+dimwishlist:item=2908653246&perks=1607056502,2679249093,2922950962,3230963543,1482024992
+dimwishlist:item=2908653246&perks=2679249093,2922950962,3230963543,1482024992
+
+// TRIPLE LAUREATE (1605599021, 2908653246) NEAR GOD ROLL: , HAMMER-FORGED RIFLING, RICOCHET ROUNDS, SLIDESHOT, MASTER OF ARMS
+//notes:-- Near God Roll --\nUse: PVP\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Range / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVP_ATier\n
+dimwishlist:item=1605599021&perks=1702976605,3081867624,3161816588,1885400500,3250034553
+dimwishlist:item=1605599021&perks=3081867624,3161816588,1885400500,3250034553
+dimwishlist:item=2908653246&perks=1702976605,3081867624,3161816588,1885400500,3250034553
+dimwishlist:item=2908653246&perks=3081867624,3161816588,1885400500,3250034553
+
+// TRIPLE LAUREATE (1605599021, 2908653246) NEAR GOD ROLL: , HAMMER-FORGED RIFLING, RICOCHET ROUNDS, RANGEFINDER, OPENING SHOT
+//notes:-- Near God Roll --\nUse: PVP\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Range / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVP_ATier\n
+dimwishlist:item=1605599021&perks=1702976605,47981717,2846385770,1885400500,3250034553
+dimwishlist:item=1605599021&perks=47981717,2846385770,1885400500,3250034553
+dimwishlist:item=2908653246&perks=1702976605,47981717,2846385770,1885400500,3250034553
+dimwishlist:item=2908653246&perks=47981717,2846385770,1885400500,3250034553
+
+// TRIPLE LAUREATE (1605599021, 2908653246) NEAR GOD ROLL: , HAMMER-FORGED RIFLING, RICOCHET ROUNDS, RANGEFINDER, MASTER OF ARMS
+//notes:-- Near God Roll --\nUse: PVP\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Range / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVP_ATier\n
+dimwishlist:item=1605599021&perks=1702976605,3081867624,2846385770,1885400500,3250034553
+dimwishlist:item=1605599021&perks=3081867624,2846385770,1885400500,3250034553
+dimwishlist:item=2908653246&perks=1702976605,3081867624,2846385770,1885400500,3250034553
+dimwishlist:item=2908653246&perks=3081867624,2846385770,1885400500,3250034553
 
 // TUSK OF THE BOAR (1218113510) NEAR GOD ROLL: , QUICK LAUNCH, HIGH-VELOCITY ROUNDS, SLICE, CHAIN REACTION
 //notes:-- Near God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Velocity / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/tusk-of-the-boar-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Slideways or Slice\nPerk 2: Chain Reaction (also good: Hatchling)\nMasterwork: Velocity or Reload Speed\nOrigin Trait: Field Tested\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
@@ -21071,6 +21224,51 @@ dimwishlist:item=981450701&perks=1359896290,732557052,1482024992
 dimwishlist:item=2029899814&perks=1359896290,732557052,1482024992
 dimwishlist:item=2386208942&perks=1359896290,732557052,1482024992
 
+// KERAUNIOS (981450701, 2029899814, 2386208942): , FLUTED BARREL, LIGHT BATTERY, SHOOT TO LOOT
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=981450701&perks=3700496672,2749775325,1840239774
+dimwishlist:item=2029899814&perks=3700496672,2749775325,1840239774
+dimwishlist:item=2386208942&perks=3700496672,2749775325,1840239774
+
+// KERAUNIOS (981450701, 2029899814, 2386208942): , FLUTED BARREL, LIGHT BATTERY, SHOOT TO LOOT
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=981450701&perks=3700496672,2749775325,1840239774
+dimwishlist:item=2029899814&perks=3700496672,2749775325,1840239774
+dimwishlist:item=2386208942&perks=3700496672,2749775325,1840239774
+
+// KERAUNIOS (981450701, 2029899814, 2386208942): , FLUTED BARREL, LIGHT BATTERY, SHOOT TO LOOT
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=981450701&perks=3700496672,2749775325,1840239774
+dimwishlist:item=2029899814&perks=3700496672,2749775325,1840239774
+dimwishlist:item=2386208942&perks=3700496672,2749775325,1840239774
+
+// KERAUNIOS (981450701, 2029899814, 2386208942): , FLUTED BARREL, LIGHT BATTERY, SUPERCHARGED MAGAZINE
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=981450701&perks=1511100135,2749775325,1840239774
+dimwishlist:item=2029899814&perks=1511100135,2749775325,1840239774
+dimwishlist:item=2386208942&perks=1511100135,2749775325,1840239774
+
+// KERAUNIOS (981450701, 2029899814, 2386208942): , FLUTED BARREL, LIGHT BATTERY, SUPERCHARGED MAGAZINE
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=981450701&perks=3700496672,2749775325,1840239774
+dimwishlist:item=2029899814&perks=3700496672,2749775325,1840239774
+dimwishlist:item=2386208942&perks=3700496672,2749775325,1840239774
+
+// KERAUNIOS (981450701, 2029899814, 2386208942): , FLUTED BARREL, LIGHT BATTERY, SUPERCHARGED MAGAZINE
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=981450701&perks=3700496672,2749775325,1840239774
+dimwishlist:item=2029899814&perks=3700496672,2749775325,1840239774
+dimwishlist:item=2386208942&perks=3700496672,2749775325,1840239774
+
+// KERAUNIOS (981450701, 2029899814, 2386208942): , HAMMER-FORGED RIFLING, PROJECTION FUSE, RAPID HIT
+//notes:-- Random Roll --\nUse: PVP\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Range\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVP_ATier\n
+dimwishlist:item=981450701&perks=247725512,2969185026,3250034553
+dimwishlist:item=981450701&perks=2578928835,2969185026,3250034553
+dimwishlist:item=2029899814&perks=247725512,2969185026,3250034553
+dimwishlist:item=2029899814&perks=2578928835,2969185026,3250034553
+dimwishlist:item=2386208942&perks=247725512,2969185026,3250034553
+dimwishlist:item=2386208942&perks=2578928835,2969185026,3250034553
+
 // KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332): , FLEXIBLE STRING, COMPACT ARROW SHAFT, EXPLOSIVE HEAD
 //notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
 dimwishlist:item=784540300&perks=2152442764,3365897133,16392701,4067834857
@@ -25975,6 +26173,36 @@ dimwishlist:item=2210806903&perks=3523296417,1885400500,1840239774
 dimwishlist:item=4267192886&perks=59871045,3523296417,1885400500,1840239774
 dimwishlist:item=4267192886&perks=3523296417,1885400500,1840239774
 
+// THE BEACON (76739872, 2161618499): , FLUTED BARREL, ACCELERATED COILS, ENVIOUS ARSENAL
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-beacon-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Accelerated Coils\nPerk 1: Envious Arsenal or Demolitionist (also good: Lead from Gold)\nPerk 2: Bait and Switch or Reservoir Burst (also good: Burning Ambition)\nMasterwork: Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Lone Wolf\nPerk 2: Closing Time\nMasterwork: Stability\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=76739872&perks=3987942396,689005463,1840239774
+dimwishlist:item=2161618499&perks=3987942396,689005463,1840239774
+
+// THE BEACON (76739872, 2161618499): , FLUTED BARREL, ACCELERATED COILS, DEMOLITIONIST
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-beacon-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Accelerated Coils\nPerk 1: Envious Arsenal or Demolitionist (also good: Lead from Gold)\nPerk 2: Bait and Switch or Reservoir Burst (also good: Burning Ambition)\nMasterwork: Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Lone Wolf\nPerk 2: Closing Time\nMasterwork: Stability\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=76739872&perks=3523296417,689005463,1840239774
+dimwishlist:item=2161618499&perks=3523296417,689005463,1840239774
+
+// THE BEACON (76739872, 2161618499): , FLUTED BARREL, ACCELERATED COILS, DEMOLITIONIST
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-beacon-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Accelerated Coils\nPerk 1: Envious Arsenal or Demolitionist (also good: Lead from Gold)\nPerk 2: Bait and Switch or Reservoir Burst (also good: Burning Ambition)\nMasterwork: Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Lone Wolf\nPerk 2: Closing Time\nMasterwork: Stability\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=76739872&perks=3523296417,689005463,1840239774
+dimwishlist:item=2161618499&perks=3523296417,689005463,1840239774
+
+// THE BEACON (76739872, 2161618499): , FLUTED BARREL, ACCELERATED COILS, LEAD FROM GOLD
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-beacon-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Accelerated Coils\nPerk 1: Envious Arsenal or Demolitionist (also good: Lead from Gold)\nPerk 2: Bait and Switch or Reservoir Burst (also good: Burning Ambition)\nMasterwork: Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Lone Wolf\nPerk 2: Closing Time\nMasterwork: Stability\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=76739872&perks=1556840489,689005463,1840239774
+dimwishlist:item=2161618499&perks=1556840489,689005463,1840239774
+
+// THE BEACON (76739872, 2161618499): , FLUTED BARREL, ACCELERATED COILS, LEAD FROM GOLD
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-beacon-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Accelerated Coils\nPerk 1: Envious Arsenal or Demolitionist (also good: Lead from Gold)\nPerk 2: Bait and Switch or Reservoir Burst (also good: Burning Ambition)\nMasterwork: Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Lone Wolf\nPerk 2: Closing Time\nMasterwork: Stability\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=76739872&perks=1556840489,689005463,1840239774
+dimwishlist:item=2161618499&perks=1556840489,689005463,1840239774
+
+// THE BEACON (76739872, 2161618499): , SMALLBORE, PROJECTION FUSE, LONE WOLF
+//notes:-- Random Roll --\nUse: PVP\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Stability\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-beacon-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Accelerated Coils\nPerk 1: Envious Arsenal or Demolitionist (also good: Lead from Gold)\nPerk 2: Bait and Switch or Reservoir Burst (also good: Burning Ambition)\nMasterwork: Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Lone Wolf\nPerk 2: Closing Time\nMasterwork: Stability\n------------------------------------------\nKeywords: #PVP_ATier\n
+dimwishlist:item=76739872&perks=2579169598,2969185026,1482024992
+dimwishlist:item=2161618499&perks=2579169598,2969185026,1482024992
+
 // THE CALL (3947966653): , QUICK LAUNCH, TACTICAL MAG, LEAD FROM GOLD
 //notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Velocity\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-call-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Quick Launch\nMagazine: Tactical Mag\nPerk 1: Lead from Gold (also good: Demolitionist)\nPerk 2: One for All (also good: Desperate Measures)\nMasterwork: VelocitPvE Roll: All-Around\nBarrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Beacon Rounds\nPerk 2: Vorpal Weapon\nMasterwork: Velocity\n- - - - - - - - - - - - - - - - - - - - - \nPvP god rolls\nPvE Roll: All-Around\nBarrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Beacon Rounds\nPerk 2: Vorpal Weapon\nMasterwork: Velocity\n------------------------------------------\nKeywords: #PVE_ATier\n
 dimwishlist:item=3947966653&perks=1556840489,106909392,3525010810
@@ -26962,6 +27190,76 @@ dimwishlist:item=3635232671&perks=3911709647,2450788523,2635532173,3250034553
 dimwishlist:item=3635232671&perks=3911709647,2450788523,3142289711,3250034553
 dimwishlist:item=3635232671&perks=2450788523,2635532173,3250034553
 dimwishlist:item=3635232671&perks=2450788523,3142289711,3250034553
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , SMALLBORE, FLARED MAGWELL, CRYSTALLINE CORPSEBLOOM
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=1605599021&perks=1607056502,2922950962,3230963543,1482024992
+dimwishlist:item=1605599021&perks=2922950962,3230963543,1482024992
+dimwishlist:item=2908653246&perks=1607056502,2922950962,3230963543,1482024992
+dimwishlist:item=2908653246&perks=2922950962,3230963543,1482024992
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , SMALLBORE, FLARED MAGWELL, CRYSTALLINE CORPSEBLOOM
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=1605599021&perks=1607056502,2922950962,3230963543,1482024992
+dimwishlist:item=1605599021&perks=2922950962,3230963543,1482024992
+dimwishlist:item=2908653246&perks=1607056502,2922950962,3230963543,1482024992
+dimwishlist:item=2908653246&perks=2922950962,3230963543,1482024992
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , SMALLBORE, FLARED MAGWELL, CRYSTALLINE CORPSEBLOOM
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=1605599021&perks=1607056502,2922950962,3230963543,1482024992
+dimwishlist:item=1605599021&perks=2922950962,3230963543,1482024992
+dimwishlist:item=2908653246&perks=1607056502,2922950962,3230963543,1482024992
+dimwishlist:item=2908653246&perks=2922950962,3230963543,1482024992
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , SMALLBORE, FLARED MAGWELL, GRAVE ROBBER
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=1605599021&perks=1607056502,1631667848,3230963543,1482024992
+dimwishlist:item=1605599021&perks=1631667848,3230963543,1482024992
+dimwishlist:item=2908653246&perks=1607056502,1631667848,3230963543,1482024992
+dimwishlist:item=2908653246&perks=1631667848,3230963543,1482024992
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , SMALLBORE, FLARED MAGWELL, GRAVE ROBBER
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=1605599021&perks=1607056502,2922950962,3230963543,1482024992
+dimwishlist:item=1605599021&perks=2922950962,3230963543,1482024992
+dimwishlist:item=2908653246&perks=1607056502,2922950962,3230963543,1482024992
+dimwishlist:item=2908653246&perks=2922950962,3230963543,1482024992
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , SMALLBORE, FLARED MAGWELL, GRAVE ROBBER
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=1605599021&perks=1607056502,2922950962,3230963543,1482024992
+dimwishlist:item=1605599021&perks=2922950962,3230963543,1482024992
+dimwishlist:item=2908653246&perks=1607056502,2922950962,3230963543,1482024992
+dimwishlist:item=2908653246&perks=2922950962,3230963543,1482024992
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , HAMMER-FORGED RIFLING, RICOCHET ROUNDS, SLIDESHOT
+//notes:-- Random Roll --\nUse: PVP\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Range / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVP_ATier\n
+dimwishlist:item=1605599021&perks=1702976605,3161816588,1885400500,3250034553
+dimwishlist:item=1605599021&perks=3161816588,1885400500,3250034553
+dimwishlist:item=2908653246&perks=1702976605,3161816588,1885400500,3250034553
+dimwishlist:item=2908653246&perks=3161816588,1885400500,3250034553
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , HAMMER-FORGED RIFLING, RICOCHET ROUNDS, SLIDESHOT
+//notes:-- Random Roll --\nUse: PVP\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Range / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVP_ATier\n
+dimwishlist:item=1605599021&perks=1702976605,3161816588,1885400500,3250034553
+dimwishlist:item=1605599021&perks=3161816588,1885400500,3250034553
+dimwishlist:item=2908653246&perks=1702976605,3161816588,1885400500,3250034553
+dimwishlist:item=2908653246&perks=3161816588,1885400500,3250034553
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , HAMMER-FORGED RIFLING, RICOCHET ROUNDS, RANGEFINDER
+//notes:-- Random Roll --\nUse: PVP\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Range / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVP_ATier\n
+dimwishlist:item=1605599021&perks=1702976605,2846385770,1885400500,3250034553
+dimwishlist:item=1605599021&perks=2846385770,1885400500,3250034553
+dimwishlist:item=2908653246&perks=1702976605,2846385770,1885400500,3250034553
+dimwishlist:item=2908653246&perks=2846385770,1885400500,3250034553
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , HAMMER-FORGED RIFLING, RICOCHET ROUNDS, RANGEFINDER
+//notes:-- Random Roll --\nUse: PVP\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Range / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVP_ATier\n
+dimwishlist:item=1605599021&perks=1702976605,2846385770,1885400500,3250034553
+dimwishlist:item=1605599021&perks=2846385770,1885400500,3250034553
+dimwishlist:item=2908653246&perks=1702976605,2846385770,1885400500,3250034553
+dimwishlist:item=2908653246&perks=2846385770,1885400500,3250034553
 
 // TRUTHTELLER (447296102, 1946491241, 3252697558): , SMART DRIFT CONTROL, SPIKE GRENADES, FEEDING FRENZY
 //notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: D\nMasterwork(s): \n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.fanbyte.com/destiny-2/guides/destiny-2-truthteller-god-roll\n------------------------------------------\nTruthteller God Roll\nSmart Drift Controls or Linear Compensator\nSpike Grenades\nFeeding Frenzy\nDemolitionist or Swashbuckler\n- - - - - - - - - - - - - - - - - - - - - \nD Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
@@ -35089,6 +35387,48 @@ dimwishlist:item=981450701&perks=1194056669,732557052,1482024992
 dimwishlist:item=2029899814&perks=1194056669,732557052,1482024992
 dimwishlist:item=2386208942&perks=1194056669,732557052,1482024992
 
+// KERAUNIOS (981450701, 2029899814, 2386208942): , FLUTED BARREL, LIGHT BATTERY, CHAIN REACTION
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=981450701&perks=2396489472,2749775325,1840239774
+dimwishlist:item=2029899814&perks=2396489472,2749775325,1840239774
+dimwishlist:item=2386208942&perks=2396489472,2749775325,1840239774
+
+// KERAUNIOS (981450701, 2029899814, 2386208942): , FLUTED BARREL, LIGHT BATTERY, ROLLING STORM
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=981450701&perks=3218042543,2749775325,1840239774
+dimwishlist:item=2029899814&perks=3218042543,2749775325,1840239774
+dimwishlist:item=2386208942&perks=3218042543,2749775325,1840239774
+
+// KERAUNIOS (981450701, 2029899814, 2386208942): , FLUTED BARREL, LIGHT BATTERY, JOLTING FEEDBACK
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=981450701&perks=3966416502,2749775325,1840239774
+dimwishlist:item=2029899814&perks=3966416502,2749775325,1840239774
+dimwishlist:item=2386208942&perks=3966416502,2749775325,1840239774
+
+// KERAUNIOS (981450701, 2029899814, 2386208942): , FLUTED BARREL, LIGHT BATTERY, CHAIN REACTION
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=981450701&perks=2396489472,2749775325,1840239774
+dimwishlist:item=2029899814&perks=2396489472,2749775325,1840239774
+dimwishlist:item=2386208942&perks=2396489472,2749775325,1840239774
+
+// KERAUNIOS (981450701, 2029899814, 2386208942): , FLUTED BARREL, LIGHT BATTERY, ROLLING STORM
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=981450701&perks=3218042543,2749775325,1840239774
+dimwishlist:item=2029899814&perks=3218042543,2749775325,1840239774
+dimwishlist:item=2386208942&perks=3218042543,2749775325,1840239774
+
+// KERAUNIOS (981450701, 2029899814, 2386208942): , FLUTED BARREL, LIGHT BATTERY, JOLTING FEEDBACK
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=981450701&perks=3966416502,2749775325,1840239774
+dimwishlist:item=2029899814&perks=3966416502,2749775325,1840239774
+dimwishlist:item=2386208942&perks=3966416502,2749775325,1840239774
+
+// KERAUNIOS (981450701, 2029899814, 2386208942): , HAMMER-FORGED RIFLING, PROJECTION FUSE, TARGET LOCK
+//notes:-- Random Roll --\nUse: PVP\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Range\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVP_ATier\n
+dimwishlist:item=981450701&perks=365154968,2969185026,3250034553
+dimwishlist:item=2029899814&perks=365154968,2969185026,3250034553
+dimwishlist:item=2386208942&perks=365154968,2969185026,3250034553
+
 // KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332): , FLEXIBLE STRING, COMPACT ARROW SHAFT, MEGANEURA
 //notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
 dimwishlist:item=784540300&perks=2152442764,657025441,16392701,4067834857
@@ -39954,6 +40294,36 @@ dimwishlist:item=4267192886&perks=59871045,2782457288,1885400500,1840239774
 dimwishlist:item=4267192886&perks=557221067,1885400500,1840239774
 dimwishlist:item=4267192886&perks=2782457288,1885400500,1840239774
 
+// THE BEACON (76739872, 2161618499): , FLUTED BARREL, ACCELERATED COILS, BAIT AND SWITCH
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-beacon-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Accelerated Coils\nPerk 1: Envious Arsenal or Demolitionist (also good: Lead from Gold)\nPerk 2: Bait and Switch or Reservoir Burst (also good: Burning Ambition)\nMasterwork: Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Lone Wolf\nPerk 2: Closing Time\nMasterwork: Stability\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=76739872&perks=3078487919,689005463,1840239774
+dimwishlist:item=2161618499&perks=3078487919,689005463,1840239774
+
+// THE BEACON (76739872, 2161618499): , FLUTED BARREL, ACCELERATED COILS, RESERVOIR BURST
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-beacon-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Accelerated Coils\nPerk 1: Envious Arsenal or Demolitionist (also good: Lead from Gold)\nPerk 2: Bait and Switch or Reservoir Burst (also good: Burning Ambition)\nMasterwork: Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Lone Wolf\nPerk 2: Closing Time\nMasterwork: Stability\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=76739872&perks=1427256713,689005463,1840239774
+dimwishlist:item=2161618499&perks=1427256713,689005463,1840239774
+
+// THE BEACON (76739872, 2161618499): , FLUTED BARREL, ACCELERATED COILS, BURNING AMBITION
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-beacon-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Accelerated Coils\nPerk 1: Envious Arsenal or Demolitionist (also good: Lead from Gold)\nPerk 2: Bait and Switch or Reservoir Burst (also good: Burning Ambition)\nMasterwork: Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Lone Wolf\nPerk 2: Closing Time\nMasterwork: Stability\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=76739872&perks=2890807135,689005463,1840239774
+dimwishlist:item=2161618499&perks=2890807135,689005463,1840239774
+
+// THE BEACON (76739872, 2161618499): , FLUTED BARREL, ACCELERATED COILS, RESERVOIR BURST
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-beacon-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Accelerated Coils\nPerk 1: Envious Arsenal or Demolitionist (also good: Lead from Gold)\nPerk 2: Bait and Switch or Reservoir Burst (also good: Burning Ambition)\nMasterwork: Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Lone Wolf\nPerk 2: Closing Time\nMasterwork: Stability\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=76739872&perks=1427256713,689005463,1840239774
+dimwishlist:item=2161618499&perks=1427256713,689005463,1840239774
+
+// THE BEACON (76739872, 2161618499): , FLUTED BARREL, ACCELERATED COILS, BURNING AMBITION
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-beacon-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Accelerated Coils\nPerk 1: Envious Arsenal or Demolitionist (also good: Lead from Gold)\nPerk 2: Bait and Switch or Reservoir Burst (also good: Burning Ambition)\nMasterwork: Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Lone Wolf\nPerk 2: Closing Time\nMasterwork: Stability\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=76739872&perks=2890807135,689005463,1840239774
+dimwishlist:item=2161618499&perks=2890807135,689005463,1840239774
+
+// THE BEACON (76739872, 2161618499): , SMALLBORE, PROJECTION FUSE, CLOSING TIME
+//notes:-- Random Roll --\nUse: PVP\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Stability\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-beacon-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Accelerated Coils\nPerk 1: Envious Arsenal or Demolitionist (also good: Lead from Gold)\nPerk 2: Bait and Switch or Reservoir Burst (also good: Burning Ambition)\nMasterwork: Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Lone Wolf\nPerk 2: Closing Time\nMasterwork: Stability\n------------------------------------------\nKeywords: #PVP_ATier\n
+dimwishlist:item=76739872&perks=1194056669,2969185026,1482024992
+dimwishlist:item=2161618499&perks=1194056669,2969185026,1482024992
+
 // THE CALL (3947966653): , QUICK LAUNCH, TACTICAL MAG, ONE FOR ALL
 //notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Velocity\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-call-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Quick Launch\nMagazine: Tactical Mag\nPerk 1: Lead from Gold (also good: Demolitionist)\nPerk 2: One for All (also good: Desperate Measures)\nMasterwork: VelocitPvE Roll: All-Around\nBarrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Beacon Rounds\nPerk 2: Vorpal Weapon\nMasterwork: Velocity\n- - - - - - - - - - - - - - - - - - - - - \nPvP god rolls\nPvE Roll: All-Around\nBarrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Beacon Rounds\nPerk 2: Vorpal Weapon\nMasterwork: Velocity\n------------------------------------------\nKeywords: #PVE_ATier\n
 dimwishlist:item=3947966653&perks=4049631843,106909392,3525010810
@@ -40851,6 +41221,84 @@ dimwishlist:item=3635232671&perks=3911709647,1546142478,2635532173,3250034553
 dimwishlist:item=3635232671&perks=3911709647,1546142478,3142289711,3250034553
 dimwishlist:item=3635232671&perks=1546142478,2635532173,3250034553
 dimwishlist:item=3635232671&perks=1546142478,3142289711,3250034553
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , SMALLBORE, FLARED MAGWELL, CHAOS RESHAPED
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=1605599021&perks=1607056502,3640170453,3230963543,1482024992
+dimwishlist:item=1605599021&perks=3640170453,3230963543,1482024992
+dimwishlist:item=2908653246&perks=1607056502,3640170453,3230963543,1482024992
+dimwishlist:item=2908653246&perks=3640170453,3230963543,1482024992
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , SMALLBORE, FLARED MAGWELL, TRENCH BARREL
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=1605599021&perks=1607056502,806159697,3230963543,1482024992
+dimwishlist:item=1605599021&perks=1607056502,2360754333,3230963543,1482024992
+dimwishlist:item=1605599021&perks=806159697,3230963543,1482024992
+dimwishlist:item=1605599021&perks=2360754333,3230963543,1482024992
+dimwishlist:item=2908653246&perks=1607056502,806159697,3230963543,1482024992
+dimwishlist:item=2908653246&perks=1607056502,2360754333,3230963543,1482024992
+dimwishlist:item=2908653246&perks=806159697,3230963543,1482024992
+dimwishlist:item=2908653246&perks=2360754333,3230963543,1482024992
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , SMALLBORE, FLARED MAGWELL, ONE-TWO PUNCH
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=1605599021&perks=1607056502,2679249093,3230963543,1482024992
+dimwishlist:item=1605599021&perks=2679249093,3230963543,1482024992
+dimwishlist:item=2908653246&perks=1607056502,2679249093,3230963543,1482024992
+dimwishlist:item=2908653246&perks=2679249093,3230963543,1482024992
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , SMALLBORE, FLARED MAGWELL, CHAOS RESHAPED
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=1605599021&perks=1607056502,3640170453,3230963543,1482024992
+dimwishlist:item=1605599021&perks=3640170453,3230963543,1482024992
+dimwishlist:item=2908653246&perks=1607056502,3640170453,3230963543,1482024992
+dimwishlist:item=2908653246&perks=3640170453,3230963543,1482024992
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , SMALLBORE, FLARED MAGWELL, TRENCH BARREL
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=1605599021&perks=1607056502,806159697,3230963543,1482024992
+dimwishlist:item=1605599021&perks=1607056502,2360754333,3230963543,1482024992
+dimwishlist:item=1605599021&perks=806159697,3230963543,1482024992
+dimwishlist:item=1605599021&perks=2360754333,3230963543,1482024992
+dimwishlist:item=2908653246&perks=1607056502,806159697,3230963543,1482024992
+dimwishlist:item=2908653246&perks=1607056502,2360754333,3230963543,1482024992
+dimwishlist:item=2908653246&perks=806159697,3230963543,1482024992
+dimwishlist:item=2908653246&perks=2360754333,3230963543,1482024992
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , SMALLBORE, FLARED MAGWELL, ONE-TWO PUNCH
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=1605599021&perks=1607056502,2679249093,3230963543,1482024992
+dimwishlist:item=1605599021&perks=2679249093,3230963543,1482024992
+dimwishlist:item=2908653246&perks=1607056502,2679249093,3230963543,1482024992
+dimwishlist:item=2908653246&perks=2679249093,3230963543,1482024992
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , HAMMER-FORGED RIFLING, RICOCHET ROUNDS, OPENING SHOT
+//notes:-- Random Roll --\nUse: PVP\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Range / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVP_ATier\n
+dimwishlist:item=1605599021&perks=1702976605,47981717,1885400500,3250034553
+dimwishlist:item=1605599021&perks=47981717,1885400500,3250034553
+dimwishlist:item=2908653246&perks=1702976605,47981717,1885400500,3250034553
+dimwishlist:item=2908653246&perks=47981717,1885400500,3250034553
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , HAMMER-FORGED RIFLING, RICOCHET ROUNDS, MASTER OF ARMS
+//notes:-- Random Roll --\nUse: PVP\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Range / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVP_ATier\n
+dimwishlist:item=1605599021&perks=1702976605,3081867624,1885400500,3250034553
+dimwishlist:item=1605599021&perks=3081867624,1885400500,3250034553
+dimwishlist:item=2908653246&perks=1702976605,3081867624,1885400500,3250034553
+dimwishlist:item=2908653246&perks=3081867624,1885400500,3250034553
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , HAMMER-FORGED RIFLING, RICOCHET ROUNDS, OPENING SHOT
+//notes:-- Random Roll --\nUse: PVP\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Range / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVP_ATier\n
+dimwishlist:item=1605599021&perks=1702976605,47981717,1885400500,3250034553
+dimwishlist:item=1605599021&perks=47981717,1885400500,3250034553
+dimwishlist:item=2908653246&perks=1702976605,47981717,1885400500,3250034553
+dimwishlist:item=2908653246&perks=47981717,1885400500,3250034553
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , HAMMER-FORGED RIFLING, RICOCHET ROUNDS, MASTER OF ARMS
+//notes:-- Random Roll --\nUse: PVP\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Range / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVP_ATier\n
+dimwishlist:item=1605599021&perks=1702976605,3081867624,1885400500,3250034553
+dimwishlist:item=1605599021&perks=3081867624,1885400500,3250034553
+dimwishlist:item=2908653246&perks=1702976605,3081867624,1885400500,3250034553
+dimwishlist:item=2908653246&perks=3081867624,1885400500,3250034553
 
 // TRUTHTELLER (447296102, 1946491241, 3252697558): , SMART DRIFT CONTROL, SPIKE GRENADES, DEMOLITIONIST
 //notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: D\nMasterwork(s): \n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.fanbyte.com/destiny-2/guides/destiny-2-truthteller-god-roll\n------------------------------------------\nTruthteller God Roll\nSmart Drift Controls or Linear Compensator\nSpike Grenades\nFeeding Frenzy\nDemolitionist or Swashbuckler\n- - - - - - - - - - - - - - - - - - - - - \nD Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
@@ -48533,6 +48981,51 @@ dimwishlist:item=981450701&perks=1194056669,1359896290,1482024992
 dimwishlist:item=2029899814&perks=1194056669,1359896290,1482024992
 dimwishlist:item=2386208942&perks=1194056669,1359896290,1482024992
 
+// KERAUNIOS (981450701, 2029899814, 2386208942): , FLUTED BARREL, SHOOT TO LOOT, CHAIN REACTION
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=981450701&perks=2396489472,3700496672,1840239774
+dimwishlist:item=2029899814&perks=2396489472,3700496672,1840239774
+dimwishlist:item=2386208942&perks=2396489472,3700496672,1840239774
+
+// KERAUNIOS (981450701, 2029899814, 2386208942): , FLUTED BARREL, SHOOT TO LOOT, ROLLING STORM
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=981450701&perks=3218042543,3700496672,1840239774
+dimwishlist:item=2029899814&perks=3218042543,3700496672,1840239774
+dimwishlist:item=2386208942&perks=3218042543,3700496672,1840239774
+
+// KERAUNIOS (981450701, 2029899814, 2386208942): , FLUTED BARREL, SHOOT TO LOOT, JOLTING FEEDBACK
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=981450701&perks=3966416502,3700496672,1840239774
+dimwishlist:item=2029899814&perks=3966416502,3700496672,1840239774
+dimwishlist:item=2386208942&perks=3966416502,3700496672,1840239774
+
+// KERAUNIOS (981450701, 2029899814, 2386208942): , FLUTED BARREL, SUPERCHARGED MAGAZINE, CHAIN REACTION
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=981450701&perks=2396489472,1511100135,1840239774
+dimwishlist:item=2029899814&perks=2396489472,1511100135,1840239774
+dimwishlist:item=2386208942&perks=2396489472,1511100135,1840239774
+
+// KERAUNIOS (981450701, 2029899814, 2386208942): , FLUTED BARREL, SUPERCHARGED MAGAZINE, ROLLING STORM
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=981450701&perks=3218042543,3700496672,1840239774
+dimwishlist:item=2029899814&perks=3218042543,3700496672,1840239774
+dimwishlist:item=2386208942&perks=3218042543,3700496672,1840239774
+
+// KERAUNIOS (981450701, 2029899814, 2386208942): , FLUTED BARREL, SUPERCHARGED MAGAZINE, JOLTING FEEDBACK
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=981450701&perks=3966416502,3700496672,1840239774
+dimwishlist:item=2029899814&perks=3966416502,3700496672,1840239774
+dimwishlist:item=2386208942&perks=3966416502,3700496672,1840239774
+
+// KERAUNIOS (981450701, 2029899814, 2386208942): , HAMMER-FORGED RIFLING, RAPID HIT, TARGET LOCK
+//notes:-- Random Roll --\nUse: PVP\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Range\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVP_ATier\n
+dimwishlist:item=981450701&perks=365154968,247725512,3250034553
+dimwishlist:item=981450701&perks=365154968,2578928835,3250034553
+dimwishlist:item=2029899814&perks=365154968,247725512,3250034553
+dimwishlist:item=2029899814&perks=365154968,2578928835,3250034553
+dimwishlist:item=2386208942&perks=365154968,247725512,3250034553
+dimwishlist:item=2386208942&perks=365154968,2578928835,3250034553
+
 // KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332): , FLEXIBLE STRING, EXPLOSIVE HEAD, MEGANEURA
 //notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
 dimwishlist:item=784540300&perks=2152442764,657025441,3365897133,4067834857
@@ -53411,6 +53904,36 @@ dimwishlist:item=4267192886&perks=59871045,2782457288,3523296417,1840239774
 dimwishlist:item=4267192886&perks=557221067,3523296417,1840239774
 dimwishlist:item=4267192886&perks=2782457288,3523296417,1840239774
 
+// THE BEACON (76739872, 2161618499): , FLUTED BARREL, ENVIOUS ARSENAL, BAIT AND SWITCH
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-beacon-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Accelerated Coils\nPerk 1: Envious Arsenal or Demolitionist (also good: Lead from Gold)\nPerk 2: Bait and Switch or Reservoir Burst (also good: Burning Ambition)\nMasterwork: Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Lone Wolf\nPerk 2: Closing Time\nMasterwork: Stability\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=76739872&perks=3078487919,3987942396,1840239774
+dimwishlist:item=2161618499&perks=3078487919,3987942396,1840239774
+
+// THE BEACON (76739872, 2161618499): , FLUTED BARREL, DEMOLITIONIST, RESERVOIR BURST
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-beacon-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Accelerated Coils\nPerk 1: Envious Arsenal or Demolitionist (also good: Lead from Gold)\nPerk 2: Bait and Switch or Reservoir Burst (also good: Burning Ambition)\nMasterwork: Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Lone Wolf\nPerk 2: Closing Time\nMasterwork: Stability\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=76739872&perks=1427256713,3523296417,1840239774
+dimwishlist:item=2161618499&perks=1427256713,3523296417,1840239774
+
+// THE BEACON (76739872, 2161618499): , FLUTED BARREL, DEMOLITIONIST, BURNING AMBITION
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-beacon-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Accelerated Coils\nPerk 1: Envious Arsenal or Demolitionist (also good: Lead from Gold)\nPerk 2: Bait and Switch or Reservoir Burst (also good: Burning Ambition)\nMasterwork: Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Lone Wolf\nPerk 2: Closing Time\nMasterwork: Stability\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=76739872&perks=2890807135,3523296417,1840239774
+dimwishlist:item=2161618499&perks=2890807135,3523296417,1840239774
+
+// THE BEACON (76739872, 2161618499): , FLUTED BARREL, LEAD FROM GOLD, RESERVOIR BURST
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-beacon-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Accelerated Coils\nPerk 1: Envious Arsenal or Demolitionist (also good: Lead from Gold)\nPerk 2: Bait and Switch or Reservoir Burst (also good: Burning Ambition)\nMasterwork: Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Lone Wolf\nPerk 2: Closing Time\nMasterwork: Stability\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=76739872&perks=1427256713,1556840489,1840239774
+dimwishlist:item=2161618499&perks=1427256713,1556840489,1840239774
+
+// THE BEACON (76739872, 2161618499): , FLUTED BARREL, LEAD FROM GOLD, BURNING AMBITION
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-beacon-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Accelerated Coils\nPerk 1: Envious Arsenal or Demolitionist (also good: Lead from Gold)\nPerk 2: Bait and Switch or Reservoir Burst (also good: Burning Ambition)\nMasterwork: Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Lone Wolf\nPerk 2: Closing Time\nMasterwork: Stability\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=76739872&perks=2890807135,1556840489,1840239774
+dimwishlist:item=2161618499&perks=2890807135,1556840489,1840239774
+
+// THE BEACON (76739872, 2161618499): , SMALLBORE, LONE WOLF, CLOSING TIME
+//notes:-- Random Roll --\nUse: PVP\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Stability\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-beacon-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Accelerated Coils\nPerk 1: Envious Arsenal or Demolitionist (also good: Lead from Gold)\nPerk 2: Bait and Switch or Reservoir Burst (also good: Burning Ambition)\nMasterwork: Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Lone Wolf\nPerk 2: Closing Time\nMasterwork: Stability\n------------------------------------------\nKeywords: #PVP_ATier\n
+dimwishlist:item=76739872&perks=1194056669,2579169598,1482024992
+dimwishlist:item=2161618499&perks=1194056669,2579169598,1482024992
+
 // THE CALL (3947966653): , QUICK LAUNCH, LEAD FROM GOLD, ONE FOR ALL
 //notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Velocity\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-call-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Quick Launch\nMagazine: Tactical Mag\nPerk 1: Lead from Gold (also good: Demolitionist)\nPerk 2: One for All (also good: Desperate Measures)\nMasterwork: VelocitPvE Roll: All-Around\nBarrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Beacon Rounds\nPerk 2: Vorpal Weapon\nMasterwork: Velocity\n- - - - - - - - - - - - - - - - - - - - - \nPvP god rolls\nPvE Roll: All-Around\nBarrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Beacon Rounds\nPerk 2: Vorpal Weapon\nMasterwork: Velocity\n------------------------------------------\nKeywords: #PVE_ATier\n
 dimwishlist:item=3947966653&perks=4049631843,1556840489,3525010810
@@ -54342,6 +54865,84 @@ dimwishlist:item=2888021255&perks=3911709647,1546142478,2450788523,3250034553
 dimwishlist:item=2888021255&perks=1546142478,2450788523,3250034553
 dimwishlist:item=3635232671&perks=3911709647,1546142478,2450788523,3250034553
 dimwishlist:item=3635232671&perks=1546142478,2450788523,3250034553
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , SMALLBORE, CRYSTALLINE CORPSEBLOOM, CHAOS RESHAPED
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=1605599021&perks=1607056502,3640170453,2922950962,1482024992
+dimwishlist:item=1605599021&perks=3640170453,2922950962,1482024992
+dimwishlist:item=2908653246&perks=1607056502,3640170453,2922950962,1482024992
+dimwishlist:item=2908653246&perks=3640170453,2922950962,1482024992
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , SMALLBORE, CRYSTALLINE CORPSEBLOOM, TRENCH BARREL
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=1605599021&perks=1607056502,806159697,2922950962,1482024992
+dimwishlist:item=1605599021&perks=1607056502,2360754333,2922950962,1482024992
+dimwishlist:item=1605599021&perks=806159697,2922950962,1482024992
+dimwishlist:item=1605599021&perks=2360754333,2922950962,1482024992
+dimwishlist:item=2908653246&perks=1607056502,806159697,2922950962,1482024992
+dimwishlist:item=2908653246&perks=1607056502,2360754333,2922950962,1482024992
+dimwishlist:item=2908653246&perks=806159697,2922950962,1482024992
+dimwishlist:item=2908653246&perks=2360754333,2922950962,1482024992
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , SMALLBORE, CRYSTALLINE CORPSEBLOOM, ONE-TWO PUNCH
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=1605599021&perks=1607056502,2679249093,2922950962,1482024992
+dimwishlist:item=1605599021&perks=2679249093,2922950962,1482024992
+dimwishlist:item=2908653246&perks=1607056502,2679249093,2922950962,1482024992
+dimwishlist:item=2908653246&perks=2679249093,2922950962,1482024992
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , SMALLBORE, GRAVE ROBBER, CHAOS RESHAPED
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=1605599021&perks=1607056502,3640170453,1631667848,1482024992
+dimwishlist:item=1605599021&perks=3640170453,1631667848,1482024992
+dimwishlist:item=2908653246&perks=1607056502,3640170453,1631667848,1482024992
+dimwishlist:item=2908653246&perks=3640170453,1631667848,1482024992
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , SMALLBORE, GRAVE ROBBER, TRENCH BARREL
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=1605599021&perks=1607056502,806159697,2922950962,1482024992
+dimwishlist:item=1605599021&perks=1607056502,2360754333,2922950962,1482024992
+dimwishlist:item=1605599021&perks=806159697,2922950962,1482024992
+dimwishlist:item=1605599021&perks=2360754333,2922950962,1482024992
+dimwishlist:item=2908653246&perks=1607056502,806159697,2922950962,1482024992
+dimwishlist:item=2908653246&perks=1607056502,2360754333,2922950962,1482024992
+dimwishlist:item=2908653246&perks=806159697,2922950962,1482024992
+dimwishlist:item=2908653246&perks=2360754333,2922950962,1482024992
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , SMALLBORE, GRAVE ROBBER, ONE-TWO PUNCH
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=1605599021&perks=1607056502,2679249093,2922950962,1482024992
+dimwishlist:item=1605599021&perks=2679249093,2922950962,1482024992
+dimwishlist:item=2908653246&perks=1607056502,2679249093,2922950962,1482024992
+dimwishlist:item=2908653246&perks=2679249093,2922950962,1482024992
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , HAMMER-FORGED RIFLING, SLIDESHOT, OPENING SHOT
+//notes:-- Random Roll --\nUse: PVP\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Range / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVP_ATier\n
+dimwishlist:item=1605599021&perks=1702976605,47981717,3161816588,3250034553
+dimwishlist:item=1605599021&perks=47981717,3161816588,3250034553
+dimwishlist:item=2908653246&perks=1702976605,47981717,3161816588,3250034553
+dimwishlist:item=2908653246&perks=47981717,3161816588,3250034553
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , HAMMER-FORGED RIFLING, SLIDESHOT, MASTER OF ARMS
+//notes:-- Random Roll --\nUse: PVP\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Range / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVP_ATier\n
+dimwishlist:item=1605599021&perks=1702976605,3081867624,3161816588,3250034553
+dimwishlist:item=1605599021&perks=3081867624,3161816588,3250034553
+dimwishlist:item=2908653246&perks=1702976605,3081867624,3161816588,3250034553
+dimwishlist:item=2908653246&perks=3081867624,3161816588,3250034553
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , HAMMER-FORGED RIFLING, RANGEFINDER, OPENING SHOT
+//notes:-- Random Roll --\nUse: PVP\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Range / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVP_ATier\n
+dimwishlist:item=1605599021&perks=1702976605,47981717,2846385770,3250034553
+dimwishlist:item=1605599021&perks=47981717,2846385770,3250034553
+dimwishlist:item=2908653246&perks=1702976605,47981717,2846385770,3250034553
+dimwishlist:item=2908653246&perks=47981717,2846385770,3250034553
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , HAMMER-FORGED RIFLING, RANGEFINDER, MASTER OF ARMS
+//notes:-- Random Roll --\nUse: PVP\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Range / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVP_ATier\n
+dimwishlist:item=1605599021&perks=1702976605,3081867624,2846385770,3250034553
+dimwishlist:item=1605599021&perks=3081867624,2846385770,3250034553
+dimwishlist:item=2908653246&perks=1702976605,3081867624,2846385770,3250034553
+dimwishlist:item=2908653246&perks=3081867624,2846385770,3250034553
 
 // TRUTHTELLER (447296102, 1946491241, 3252697558): , SMART DRIFT CONTROL, FEEDING FRENZY, DEMOLITIONIST
 //notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: D\nMasterwork(s): \n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.fanbyte.com/destiny-2/guides/destiny-2-truthteller-god-roll\n------------------------------------------\nTruthteller God Roll\nSmart Drift Controls or Linear Compensator\nSpike Grenades\nFeeding Frenzy\nDemolitionist or Swashbuckler\n- - - - - - - - - - - - - - - - - - - - - \nD Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
@@ -62764,6 +63365,51 @@ dimwishlist:item=981450701&perks=1194056669,1359896290,732557052
 dimwishlist:item=2029899814&perks=1194056669,1359896290,732557052
 dimwishlist:item=2386208942&perks=1194056669,1359896290,732557052
 
+// KERAUNIOS (981450701, 2029899814, 2386208942): , LIGHT BATTERY, SHOOT TO LOOT, CHAIN REACTION
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=981450701&perks=2396489472,3700496672,2749775325
+dimwishlist:item=2029899814&perks=2396489472,3700496672,2749775325
+dimwishlist:item=2386208942&perks=2396489472,3700496672,2749775325
+
+// KERAUNIOS (981450701, 2029899814, 2386208942): , LIGHT BATTERY, SHOOT TO LOOT, ROLLING STORM
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=981450701&perks=3218042543,3700496672,2749775325
+dimwishlist:item=2029899814&perks=3218042543,3700496672,2749775325
+dimwishlist:item=2386208942&perks=3218042543,3700496672,2749775325
+
+// KERAUNIOS (981450701, 2029899814, 2386208942): , LIGHT BATTERY, SHOOT TO LOOT, JOLTING FEEDBACK
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=981450701&perks=3966416502,3700496672,2749775325
+dimwishlist:item=2029899814&perks=3966416502,3700496672,2749775325
+dimwishlist:item=2386208942&perks=3966416502,3700496672,2749775325
+
+// KERAUNIOS (981450701, 2029899814, 2386208942): , LIGHT BATTERY, SUPERCHARGED MAGAZINE, CHAIN REACTION
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=981450701&perks=2396489472,1511100135,2749775325
+dimwishlist:item=2029899814&perks=2396489472,1511100135,2749775325
+dimwishlist:item=2386208942&perks=2396489472,1511100135,2749775325
+
+// KERAUNIOS (981450701, 2029899814, 2386208942): , LIGHT BATTERY, SUPERCHARGED MAGAZINE, ROLLING STORM
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=981450701&perks=3218042543,3700496672,2749775325
+dimwishlist:item=2029899814&perks=3218042543,3700496672,2749775325
+dimwishlist:item=2386208942&perks=3218042543,3700496672,2749775325
+
+// KERAUNIOS (981450701, 2029899814, 2386208942): , LIGHT BATTERY, SUPERCHARGED MAGAZINE, JOLTING FEEDBACK
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=981450701&perks=3966416502,3700496672,2749775325
+dimwishlist:item=2029899814&perks=3966416502,3700496672,2749775325
+dimwishlist:item=2386208942&perks=3966416502,3700496672,2749775325
+
+// KERAUNIOS (981450701, 2029899814, 2386208942): , PROJECTION FUSE, RAPID HIT, TARGET LOCK
+//notes:-- Random Roll --\nUse: PVP\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Range\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/keraunios-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range\n------------------------------------------\nKeywords: #PVP_ATier\n
+dimwishlist:item=981450701&perks=365154968,247725512,2969185026
+dimwishlist:item=981450701&perks=365154968,2578928835,2969185026
+dimwishlist:item=2029899814&perks=365154968,247725512,2969185026
+dimwishlist:item=2029899814&perks=365154968,2578928835,2969185026
+dimwishlist:item=2386208942&perks=365154968,247725512,2969185026
+dimwishlist:item=2386208942&perks=365154968,2578928835,2969185026
+
 // KING ORFEO (784540300, 784540301, 784540302, 784540303, 3481382332): , COMPACT ARROW SHAFT, EXPLOSIVE HEAD, MEGANEURA
 //notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Draw Time / Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/king-orfeo-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer\n------------------------------------------\nKeywords: #PVE_ATier\n
 dimwishlist:item=784540300&perks=2152442764,657025441,3365897133,16392701
@@ -67962,6 +68608,36 @@ dimwishlist:item=4267192886&perks=59871045,2782457288,3523296417,1885400500
 dimwishlist:item=4267192886&perks=557221067,3523296417,1885400500
 dimwishlist:item=4267192886&perks=2782457288,3523296417,1885400500
 
+// THE BEACON (76739872, 2161618499): , ACCELERATED COILS, ENVIOUS ARSENAL, BAIT AND SWITCH
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-beacon-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Accelerated Coils\nPerk 1: Envious Arsenal or Demolitionist (also good: Lead from Gold)\nPerk 2: Bait and Switch or Reservoir Burst (also good: Burning Ambition)\nMasterwork: Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Lone Wolf\nPerk 2: Closing Time\nMasterwork: Stability\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=76739872&perks=3078487919,3987942396,689005463
+dimwishlist:item=2161618499&perks=3078487919,3987942396,689005463
+
+// THE BEACON (76739872, 2161618499): , ACCELERATED COILS, DEMOLITIONIST, RESERVOIR BURST
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-beacon-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Accelerated Coils\nPerk 1: Envious Arsenal or Demolitionist (also good: Lead from Gold)\nPerk 2: Bait and Switch or Reservoir Burst (also good: Burning Ambition)\nMasterwork: Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Lone Wolf\nPerk 2: Closing Time\nMasterwork: Stability\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=76739872&perks=1427256713,3523296417,689005463
+dimwishlist:item=2161618499&perks=1427256713,3523296417,689005463
+
+// THE BEACON (76739872, 2161618499): , ACCELERATED COILS, DEMOLITIONIST, BURNING AMBITION
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-beacon-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Accelerated Coils\nPerk 1: Envious Arsenal or Demolitionist (also good: Lead from Gold)\nPerk 2: Bait and Switch or Reservoir Burst (also good: Burning Ambition)\nMasterwork: Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Lone Wolf\nPerk 2: Closing Time\nMasterwork: Stability\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=76739872&perks=2890807135,3523296417,689005463
+dimwishlist:item=2161618499&perks=2890807135,3523296417,689005463
+
+// THE BEACON (76739872, 2161618499): , ACCELERATED COILS, LEAD FROM GOLD, RESERVOIR BURST
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-beacon-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Accelerated Coils\nPerk 1: Envious Arsenal or Demolitionist (also good: Lead from Gold)\nPerk 2: Bait and Switch or Reservoir Burst (also good: Burning Ambition)\nMasterwork: Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Lone Wolf\nPerk 2: Closing Time\nMasterwork: Stability\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=76739872&perks=1427256713,1556840489,689005463
+dimwishlist:item=2161618499&perks=1427256713,1556840489,689005463
+
+// THE BEACON (76739872, 2161618499): , ACCELERATED COILS, LEAD FROM GOLD, BURNING AMBITION
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-beacon-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Accelerated Coils\nPerk 1: Envious Arsenal or Demolitionist (also good: Lead from Gold)\nPerk 2: Bait and Switch or Reservoir Burst (also good: Burning Ambition)\nMasterwork: Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Lone Wolf\nPerk 2: Closing Time\nMasterwork: Stability\n------------------------------------------\nKeywords: #PVE_STier\n
+dimwishlist:item=76739872&perks=2890807135,1556840489,689005463
+dimwishlist:item=2161618499&perks=2890807135,1556840489,689005463
+
+// THE BEACON (76739872, 2161618499): , PROJECTION FUSE, LONE WOLF, CLOSING TIME
+//notes:-- Random Roll --\nUse: PVP\nPVE Tier: S\nPVP Tier: A\nMasterwork(s): Stability\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-beacon-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Accelerated Coils\nPerk 1: Envious Arsenal or Demolitionist (also good: Lead from Gold)\nPerk 2: Bait and Switch or Reservoir Burst (also good: Burning Ambition)\nMasterwork: Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Lone Wolf\nPerk 2: Closing Time\nMasterwork: Stability\n------------------------------------------\nKeywords: #PVP_ATier\n
+dimwishlist:item=76739872&perks=1194056669,2579169598,2969185026
+dimwishlist:item=2161618499&perks=1194056669,2579169598,2969185026
+
 // THE CALL (3947966653): , TACTICAL MAG, LEAD FROM GOLD, ONE FOR ALL
 //notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Velocity\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-call-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Quick Launch\nMagazine: Tactical Mag\nPerk 1: Lead from Gold (also good: Demolitionist)\nPerk 2: One for All (also good: Desperate Measures)\nMasterwork: VelocitPvE Roll: All-Around\nBarrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Beacon Rounds\nPerk 2: Vorpal Weapon\nMasterwork: Velocity\n- - - - - - - - - - - - - - - - - - - - - \nPvP god rolls\nPvE Roll: All-Around\nBarrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Beacon Rounds\nPerk 2: Vorpal Weapon\nMasterwork: Velocity\n------------------------------------------\nKeywords: #PVE_ATier\n
 dimwishlist:item=3947966653&perks=4049631843,1556840489,106909392
@@ -68945,6 +69621,84 @@ dimwishlist:item=3635232671&perks=3911709647,1546142478,2450788523,2635532173
 dimwishlist:item=3635232671&perks=3911709647,1546142478,2450788523,3142289711
 dimwishlist:item=3635232671&perks=1546142478,2450788523,2635532173
 dimwishlist:item=3635232671&perks=1546142478,2450788523,3142289711
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , FLARED MAGWELL, CRYSTALLINE CORPSEBLOOM, CHAOS RESHAPED
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=1605599021&perks=1607056502,3640170453,2922950962,3230963543
+dimwishlist:item=1605599021&perks=3640170453,2922950962,3230963543
+dimwishlist:item=2908653246&perks=1607056502,3640170453,2922950962,3230963543
+dimwishlist:item=2908653246&perks=3640170453,2922950962,3230963543
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , FLARED MAGWELL, CRYSTALLINE CORPSEBLOOM, TRENCH BARREL
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=1605599021&perks=1607056502,806159697,2922950962,3230963543
+dimwishlist:item=1605599021&perks=1607056502,2360754333,2922950962,3230963543
+dimwishlist:item=1605599021&perks=806159697,2922950962,3230963543
+dimwishlist:item=1605599021&perks=2360754333,2922950962,3230963543
+dimwishlist:item=2908653246&perks=1607056502,806159697,2922950962,3230963543
+dimwishlist:item=2908653246&perks=1607056502,2360754333,2922950962,3230963543
+dimwishlist:item=2908653246&perks=806159697,2922950962,3230963543
+dimwishlist:item=2908653246&perks=2360754333,2922950962,3230963543
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , FLARED MAGWELL, CRYSTALLINE CORPSEBLOOM, ONE-TWO PUNCH
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=1605599021&perks=1607056502,2679249093,2922950962,3230963543
+dimwishlist:item=1605599021&perks=2679249093,2922950962,3230963543
+dimwishlist:item=2908653246&perks=1607056502,2679249093,2922950962,3230963543
+dimwishlist:item=2908653246&perks=2679249093,2922950962,3230963543
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , FLARED MAGWELL, GRAVE ROBBER, CHAOS RESHAPED
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=1605599021&perks=1607056502,3640170453,1631667848,3230963543
+dimwishlist:item=1605599021&perks=3640170453,1631667848,3230963543
+dimwishlist:item=2908653246&perks=1607056502,3640170453,1631667848,3230963543
+dimwishlist:item=2908653246&perks=3640170453,1631667848,3230963543
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , FLARED MAGWELL, GRAVE ROBBER, TRENCH BARREL
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=1605599021&perks=1607056502,806159697,2922950962,3230963543
+dimwishlist:item=1605599021&perks=1607056502,2360754333,2922950962,3230963543
+dimwishlist:item=1605599021&perks=806159697,2922950962,3230963543
+dimwishlist:item=1605599021&perks=2360754333,2922950962,3230963543
+dimwishlist:item=2908653246&perks=1607056502,806159697,2922950962,3230963543
+dimwishlist:item=2908653246&perks=1607056502,2360754333,2922950962,3230963543
+dimwishlist:item=2908653246&perks=806159697,2922950962,3230963543
+dimwishlist:item=2908653246&perks=2360754333,2922950962,3230963543
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , FLARED MAGWELL, GRAVE ROBBER, ONE-TWO PUNCH
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=1605599021&perks=1607056502,2679249093,2922950962,3230963543
+dimwishlist:item=1605599021&perks=2679249093,2922950962,3230963543
+dimwishlist:item=2908653246&perks=1607056502,2679249093,2922950962,3230963543
+dimwishlist:item=2908653246&perks=2679249093,2922950962,3230963543
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , RICOCHET ROUNDS, SLIDESHOT, OPENING SHOT
+//notes:-- Random Roll --\nUse: PVP\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Range / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVP_ATier\n
+dimwishlist:item=1605599021&perks=1702976605,47981717,3161816588,1885400500
+dimwishlist:item=1605599021&perks=47981717,3161816588,1885400500
+dimwishlist:item=2908653246&perks=1702976605,47981717,3161816588,1885400500
+dimwishlist:item=2908653246&perks=47981717,3161816588,1885400500
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , RICOCHET ROUNDS, SLIDESHOT, MASTER OF ARMS
+//notes:-- Random Roll --\nUse: PVP\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Range / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVP_ATier\n
+dimwishlist:item=1605599021&perks=1702976605,3081867624,3161816588,1885400500
+dimwishlist:item=1605599021&perks=3081867624,3161816588,1885400500
+dimwishlist:item=2908653246&perks=1702976605,3081867624,3161816588,1885400500
+dimwishlist:item=2908653246&perks=3081867624,3161816588,1885400500
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , RICOCHET ROUNDS, RANGEFINDER, OPENING SHOT
+//notes:-- Random Roll --\nUse: PVP\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Range / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVP_ATier\n
+dimwishlist:item=1605599021&perks=1702976605,47981717,2846385770,1885400500
+dimwishlist:item=1605599021&perks=47981717,2846385770,1885400500
+dimwishlist:item=2908653246&perks=1702976605,47981717,2846385770,1885400500
+dimwishlist:item=2908653246&perks=47981717,2846385770,1885400500
+
+// TRIPLE LAUREATE (1605599021, 2908653246): , RICOCHET ROUNDS, RANGEFINDER, MASTER OF ARMS
+//notes:-- Random Roll --\nUse: PVP\nPVE Tier: A\nPVP Tier: A\nMasterwork(s): Range / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: #PVP_ATier\n
+dimwishlist:item=1605599021&perks=1702976605,3081867624,2846385770,1885400500
+dimwishlist:item=1605599021&perks=3081867624,2846385770,1885400500
+dimwishlist:item=2908653246&perks=1702976605,3081867624,2846385770,1885400500
+dimwishlist:item=2908653246&perks=3081867624,2846385770,1885400500
 
 // TRUTHTELLER (447296102, 1946491241, 3252697558): , SPIKE GRENADES, FEEDING FRENZY, DEMOLITIONIST
 //notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: D\nMasterwork(s): \n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.fanbyte.com/destiny-2/guides/destiny-2-truthteller-god-roll\n------------------------------------------\nTruthteller God Roll\nSmart Drift Controls or Linear Compensator\nSpike Grenades\nFeeding Frenzy\nDemolitionist or Swashbuckler\n- - - - - - - - - - - - - - - - - - - - - \nD Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
@@ -72038,6 +72792,11 @@ dimwishlist:item=-3984556130
 dimwishlist:item=-2210806903
 dimwishlist:item=-4267192886
 
+// THE BEACON (76739872, 2161618499) CATCHALL: 
+//notes:-- Trash Roll --\n\nPVE Tier: S\nPVP Tier: A\n\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-beacon-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Accelerated Coils\nPerk 1: Envious Arsenal or Demolitionist (also good: Lead from Gold)\nPerk 2: Bait and Switch or Reservoir Burst (also good: Burning Ambition)\nMasterwork: Charge Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Lone Wolf\nPerk 2: Closing Time\nMasterwork: Stability\n------------------------------------------\nKeywords: 
+dimwishlist:item=-76739872
+dimwishlist:item=-2161618499
+
 // THE CALL (3947966653) CATCHALL: 
 //notes:-- Trash Roll --\n\nPVE Tier: A\nPVP Tier: C\n\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/the-call-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Quick Launch\nMagazine: Tactical Mag\nPerk 1: Lead from Gold (also good: Demolitionist)\nPerk 2: One for All (also good: Desperate Measures)\nMasterwork: VelocitPvE Roll: All-Around\nBarrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Beacon Rounds\nPerk 2: Vorpal Weapon\nMasterwork: Velocity\n- - - - - - - - - - - - - - - - - - - - - \nPvP god rolls\nPvE Roll: All-Around\nBarrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Beacon Rounds\nPerk 2: Vorpal Weapon\nMasterwork: Velocity\n------------------------------------------\nKeywords: 
 dimwishlist:item=-3947966653
@@ -72152,6 +72911,11 @@ dimwishlist:item=-2888021253
 dimwishlist:item=-2888021254
 dimwishlist:item=-2888021255
 dimwishlist:item=-3635232671
+
+// TRIPLE LAUREATE (1605599021, 2908653246) CATCHALL: 
+//notes:-- Trash Roll --\n\nPVE Tier: A\nPVP Tier: A\n\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/triple-laureate-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments \n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender\n------------------------------------------\nKeywords: 
+dimwishlist:item=-1605599021
+dimwishlist:item=-2908653246
 
 // TRUTHTELLER (447296102, 1946491241, 3252697558) CATCHALL: 
 //notes:-- Trash Roll --\n\nPVE Tier: A\nPVP Tier: D\n\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.fanbyte.com/destiny-2/guides/destiny-2-truthteller-god-roll\n------------------------------------------\nTruthteller God Roll\nSmart Drift Controls or Linear Compensator\nSpike Grenades\nFeeding Frenzy\nDemolitionist or Swashbuckler\n- - - - - - - - - - - - - - - - - - - - - \nD Tier: DO NOT USE!\n------------------------------------------\nKeywords: 
