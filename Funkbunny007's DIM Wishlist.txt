@@ -244,6 +244,46 @@ dimwishlist:item=4095896073&perks=3414324643,201365942,1885400500,3827198035
 dimwishlist:item=3621336854&perks=4082225868,201365942,1885400500,3827198035
 dimwishlist:item=4095896073&perks=4082225868,201365942,1885400500,3827198035
 
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828) GOD ROLL: , FLUTED BARREL, ENHANCED BATTERY, DEMOLITIONIST, CRYSTALLINE CORPSEBLOOM
+//notes:-- God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/action-item-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Hammer, Meet Nail\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=437854388&perks=2922950962,3523296417,2680121939,1840239774
+dimwishlist:item=437854389&perks=2922950962,3523296417,2680121939,1840239774
+dimwishlist:item=437854390&perks=2922950962,3523296417,2680121939,1840239774
+dimwishlist:item=437854391&perks=2922950962,3523296417,2680121939,1840239774
+dimwishlist:item=527989828&perks=2922950962,3523296417,2680121939,1840239774
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828) GOD ROLL: , FLUTED BARREL, ENHANCED BATTERY, DEMOLITIONIST, HEADSTONE
+//notes:-- God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/action-item-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Hammer, Meet Nail\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=437854388&perks=124408337,3523296417,2680121939,1840239774
+dimwishlist:item=437854389&perks=124408337,3523296417,2680121939,1840239774
+dimwishlist:item=437854390&perks=124408337,3523296417,2680121939,1840239774
+dimwishlist:item=437854391&perks=124408337,3523296417,2680121939,1840239774
+dimwishlist:item=527989828&perks=124408337,3523296417,2680121939,1840239774
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828) GOD ROLL: , FLUTED BARREL, ENHANCED BATTERY, RIMESTEALER, CRYSTALLINE CORPSEBLOOM
+//notes:-- God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/action-item-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Hammer, Meet Nail\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=437854388&perks=2922950962,1955165503,2680121939,1840239774
+dimwishlist:item=437854389&perks=2922950962,1955165503,2680121939,1840239774
+dimwishlist:item=437854390&perks=2922950962,1955165503,2680121939,1840239774
+dimwishlist:item=437854391&perks=2922950962,1955165503,2680121939,1840239774
+dimwishlist:item=527989828&perks=2922950962,1955165503,2680121939,1840239774
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828) GOD ROLL: , FLUTED BARREL, ENHANCED BATTERY, RIMESTEALER, HEADSTONE
+//notes:-- God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/action-item-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Hammer, Meet Nail\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=437854388&perks=124408337,3523296417,2680121939,1840239774
+dimwishlist:item=437854389&perks=124408337,3523296417,2680121939,1840239774
+dimwishlist:item=437854390&perks=124408337,3523296417,2680121939,1840239774
+dimwishlist:item=437854391&perks=124408337,3523296417,2680121939,1840239774
+dimwishlist:item=527989828&perks=124408337,3523296417,2680121939,1840239774
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828) GOD ROLL: , FLUTED BARREL, ENHANCED BATTERY, DEMOLITIONIST, CRYSTALLINE CORPSEBLOOM
+//notes:-- God Roll --\n\nPVE Tier: Unknown\nPVP Tier: Unknown\nMasterwork(s): \n- - - - - - - - - - - - - - - - - - - - - \nNo PVE notes for this item.\n- - - - - - - - - - - - - - - - - - - - - \nNo PVP notes for this item.\n\n------------------------------------------\nKeywords: _UnknownTier\n
+dimwishlist:item=437854388&perks=2922950962,3523296417,2680121939,1840239774
+dimwishlist:item=437854389&perks=2922950962,3523296417,2680121939,1840239774
+dimwishlist:item=437854390&perks=2922950962,3523296417,2680121939,1840239774
+dimwishlist:item=437854391&perks=2922950962,3523296417,2680121939,1840239774
+dimwishlist:item=527989828&perks=2922950962,3523296417,2680121939,1840239774
+
 // ADAMANTITE (2987244302, 3229982889) GOD ROLL: , FLUTED BARREL, FLARED MAGWELL, RECIPROCITY, CIRCLE OF LIFE
 //notes:-- God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Handling / Stability\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/adamantite-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Flared Magwell\nPerk 1: Reciprocity\nPerk 2: Circle of Life (also good: Attrition Orbs)\nMasterwork: Handling or Stability\nOrigin Trait: Runneth Over\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nMagazine: Accurized Rounds\nPerk 1: Reciprocity\nPerk 2: Kill Clip\nMasterwork: Range\nOrigin Trait: Willing Vessel\n------------------------------------------\nKeywords: #PVE_ATier\n
 dimwishlist:item=2987244302&perks=120721526,2298656195,692399809,3230963543,1840239774
@@ -6184,6 +6224,18 @@ dimwishlist:item=2755584425&perks=1683379515,951095735,3142289711,1263609309
 dimwishlist:item=2755584425&perks=3871884143,951095735,2635532173,1263609309
 dimwishlist:item=2755584425&perks=3871884143,951095735,3142289711,1263609309
 
+// REGHUSK'S PLEDGE (2370525224) GOD ROLL: , FLUTED BARREL, APPENDED MAG, DESTABILIZING ROUNDS, REPULSOR BRACE
+//notes:-- God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Reload Speed / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=2370525224&perks=3989629871,776531651,2048641572,1087426260,1840239774
+dimwishlist:item=2370525224&perks=776531651,2048641572,1087426260,1840239774
+
+// REGHUSK'S PLEDGE (2370525224) GOD ROLL: , ARROWHEAD BRAKE, ACCURIZED ROUNDS, DYNAMIC SWAY REDUCTION, TARGET LOCK
+//notes:-- God Roll --\nUse: PVP\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Range\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVP_BTier\n
+dimwishlist:item=2370525224&perks=3989629871,365154968,1359896290,2635532173,839105230
+dimwishlist:item=2370525224&perks=3989629871,365154968,1359896290,3142289711,839105230
+dimwishlist:item=2370525224&perks=365154968,1359896290,2635532173,839105230
+dimwishlist:item=2370525224&perks=365154968,1359896290,3142289711,839105230
+
 // REGNANT (268260372) GOD ROLL: , VOLATILE LAUNCH, SPIKE GRENADES, AUTO-LOADING HOLSTER, EXPLOSIVE LIGHT
 //notes:-- God Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: B\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/regnant-god-rolls/\n------------------------------------------\nPvE god roll\nBarrel: Volatile Launch\nMagazine: Spike Grenades\nPerk 1: Auto-Loading Holster\nPerk 2: Explosive Light\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP god roll\nBarrel: Volatile Launch\nMagazine: High Explosive Ordnance\nPerk 1: Rangefinder\nPerk 2: Unrelenting\nMasterwork: Blast Radius\n------------------------------------------\nKeywords: #PVE_STier\n
 dimwishlist:item=268260372&perks=3194351027,3300816228,3301904089,332773068
@@ -8952,6 +9004,22 @@ dimwishlist:item=4095896073&perks=3891536761,2652708987,3827198035,2801223209
 //notes:-- Near God Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: S\nMasterwork(s): Draw Time\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/accrued-redemption-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Elastic String\nArrow: Straight Fletchling\nPerk 1: Successful Warmup or Archer’s Tempo\nPerk 2: Kinetic Tremors (also good: Firefly)\nMasterwork: Draw Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Straight Fletchling\nArrow: Ricochet Rounds\nPerk 1: Archer’s Tempo\nPerk 2: Archer’s Gambit or Swashbuckler\nMasterwork: Draw Time\n------------------------------------------\nKeywords: #PVE_STier\n
 dimwishlist:item=3621336854&perks=3891536761,201365942,3827198035,2801223209
 dimwishlist:item=4095896073&perks=3891536761,201365942,3827198035,2801223209
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828) NEAR GOD ROLL: , FLUTED BARREL, ENHANCED BATTERY, DEMOLITIONIST, DETONATOR BEAM
+//notes:-- Near God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/action-item-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Hammer, Meet Nail\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=437854388&perks=4198902903,3523296417,2680121939,1840239774
+dimwishlist:item=437854389&perks=4198902903,3523296417,2680121939,1840239774
+dimwishlist:item=437854390&perks=4198902903,3523296417,2680121939,1840239774
+dimwishlist:item=437854391&perks=4198902903,3523296417,2680121939,1840239774
+dimwishlist:item=527989828&perks=4198902903,3523296417,2680121939,1840239774
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828) NEAR GOD ROLL: , FLUTED BARREL, ENHANCED BATTERY, RIMESTEALER, DETONATOR BEAM
+//notes:-- Near God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/action-item-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Hammer, Meet Nail\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=437854388&perks=4198902903,3523296417,2680121939,1840239774
+dimwishlist:item=437854389&perks=4198902903,3523296417,2680121939,1840239774
+dimwishlist:item=437854390&perks=4198902903,3523296417,2680121939,1840239774
+dimwishlist:item=437854391&perks=4198902903,3523296417,2680121939,1840239774
+dimwishlist:item=527989828&perks=4198902903,3523296417,2680121939,1840239774
 
 // ADAMANTITE (2987244302, 3229982889) NEAR GOD ROLL: , FLUTED BARREL, FLARED MAGWELL, RECIPROCITY, ATTRITION ORBS
 //notes:-- Near God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Handling / Stability\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/adamantite-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Flared Magwell\nPerk 1: Reciprocity\nPerk 2: Circle of Life (also good: Attrition Orbs)\nMasterwork: Handling or Stability\nOrigin Trait: Runneth Over\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nMagazine: Accurized Rounds\nPerk 1: Reciprocity\nPerk 2: Kill Clip\nMasterwork: Range\nOrigin Trait: Willing Vessel\n------------------------------------------\nKeywords: #PVE_ATier\n
@@ -12733,6 +12801,40 @@ dimwishlist:item=25228802&perks=1782407750,923806249,3721627275,5699512
 dimwishlist:item=2755584425&perks=878237828,1782407750,923806249,3721627275,5699512
 dimwishlist:item=2755584425&perks=1782407750,923806249,3721627275,5699512
 
+// REGHUSK'S PLEDGE (2370525224) NEAR GOD ROLL: , FLUTED BARREL, APPENDED MAG, DESTABILIZING ROUNDS, GOLDEN TRICORN
+//notes:-- Near God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Reload Speed / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=2370525224&perks=3989629871,2610012052,2048641572,1087426260,1840239774
+dimwishlist:item=2370525224&perks=2610012052,2048641572,1087426260,1840239774
+
+// REGHUSK'S PLEDGE (2370525224) NEAR GOD ROLL: , FLUTED BARREL, APPENDED MAG, DESTABILIZING ROUNDS, ATTRITION ORBS
+//notes:-- Near God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Reload Speed / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=2370525224&perks=3989629871,243981275,2048641572,1087426260,1840239774
+dimwishlist:item=2370525224&perks=243981275,2048641572,1087426260,1840239774
+
+// REGHUSK'S PLEDGE (2370525224) NEAR GOD ROLL: , FLUTED BARREL, APPENDED MAG, REWIND ROUNDS, REPULSOR BRACE
+//notes:-- Near God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Reload Speed / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=2370525224&perks=3989629871,776531651,2578928832,1087426260,1840239774
+dimwishlist:item=2370525224&perks=3989629871,776531651,3418782618,1087426260,1840239774
+dimwishlist:item=2370525224&perks=776531651,2578928832,1087426260,1840239774
+dimwishlist:item=2370525224&perks=776531651,3418782618,1087426260,1840239774
+
+// REGHUSK'S PLEDGE (2370525224) NEAR GOD ROLL: , FLUTED BARREL, APPENDED MAG, REWIND ROUNDS, GOLDEN TRICORN
+//notes:-- Near God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Reload Speed / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=2370525224&perks=3989629871,2610012052,2048641572,1087426260,1840239774
+dimwishlist:item=2370525224&perks=2610012052,2048641572,1087426260,1840239774
+
+// REGHUSK'S PLEDGE (2370525224) NEAR GOD ROLL: , FLUTED BARREL, APPENDED MAG, REWIND ROUNDS, ATTRITION ORBS
+//notes:-- Near God Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Reload Speed / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=2370525224&perks=3989629871,243981275,2048641572,1087426260,1840239774
+dimwishlist:item=2370525224&perks=243981275,2048641572,1087426260,1840239774
+
+// REGHUSK'S PLEDGE (2370525224) NEAR GOD ROLL: , ARROWHEAD BRAKE, ACCURIZED ROUNDS, DYNAMIC SWAY REDUCTION, KILL CLIP
+//notes:-- Near God Roll --\nUse: PVP\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Range\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVP_BTier\n
+dimwishlist:item=2370525224&perks=3989629871,1015611457,1359896290,2635532173,839105230
+dimwishlist:item=2370525224&perks=3989629871,1015611457,1359896290,3142289711,839105230
+dimwishlist:item=2370525224&perks=1015611457,1359896290,2635532173,839105230
+dimwishlist:item=2370525224&perks=1015611457,1359896290,3142289711,839105230
+
 // RELENTLESS (435821041, 1187594590, 3681280908, 3733988413) NEAR GOD ROLL: , FLUTED BARREL, FLARED MAGWELL, FIREFLY, HATCHLING
 //notes:-- Near God Roll --\nUse: PVE\nPVE Tier: B\nPVP Tier: A\nMasterwork(s): Reload Speed / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/relentless-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Flared Magwell\nPerk 1: Firefly (also good: Tear)\nPerk 2: Elemental Honing (also good: Hatchling)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Gravity Well\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Polygonal Rifling\nMagazine: Ricochet Rounds\nPerk 1: Keep Away or Lone Wolf\nPerk 2: Headseeker\nMasterwork: Stability\nOrigin Trait: Crossing Over\n------------------------------------------\nKeywords: #PVE_BTier\n
 dimwishlist:item=435821041&perks=59871045,831391274,1561789734,3230963543,1840239774
@@ -15236,6 +15338,62 @@ dimwishlist:item=4095896073&perks=201365942,1885400500,3827198035
 //notes:-- Random Roll --\nUse: PVP\nPVE Tier: S\nPVP Tier: S\nMasterwork(s): Draw Time\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/accrued-redemption-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Elastic String\nArrow: Straight Fletchling\nPerk 1: Successful Warmup or Archer’s Tempo\nPerk 2: Kinetic Tremors (also good: Firefly)\nMasterwork: Draw Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Straight Fletchling\nArrow: Ricochet Rounds\nPerk 1: Archer’s Tempo\nPerk 2: Archer’s Gambit or Swashbuckler\nMasterwork: Draw Time\n------------------------------------------\nKeywords: #PVP_STier\n
 dimwishlist:item=3621336854&perks=201365942,1885400500,3827198035
 dimwishlist:item=4095896073&perks=201365942,1885400500,3827198035
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828): , FLUTED BARREL, ENHANCED BATTERY, DEMOLITIONIST
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/action-item-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Hammer, Meet Nail\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=437854388&perks=3523296417,2680121939,1840239774
+dimwishlist:item=437854389&perks=3523296417,2680121939,1840239774
+dimwishlist:item=437854390&perks=3523296417,2680121939,1840239774
+dimwishlist:item=437854391&perks=3523296417,2680121939,1840239774
+dimwishlist:item=527989828&perks=3523296417,2680121939,1840239774
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828): , FLUTED BARREL, ENHANCED BATTERY, DEMOLITIONIST
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/action-item-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Hammer, Meet Nail\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=437854388&perks=3523296417,2680121939,1840239774
+dimwishlist:item=437854389&perks=3523296417,2680121939,1840239774
+dimwishlist:item=437854390&perks=3523296417,2680121939,1840239774
+dimwishlist:item=437854391&perks=3523296417,2680121939,1840239774
+dimwishlist:item=527989828&perks=3523296417,2680121939,1840239774
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828): , FLUTED BARREL, ENHANCED BATTERY, DEMOLITIONIST
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/action-item-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Hammer, Meet Nail\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=437854388&perks=3523296417,2680121939,1840239774
+dimwishlist:item=437854389&perks=3523296417,2680121939,1840239774
+dimwishlist:item=437854390&perks=3523296417,2680121939,1840239774
+dimwishlist:item=437854391&perks=3523296417,2680121939,1840239774
+dimwishlist:item=527989828&perks=3523296417,2680121939,1840239774
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828): , FLUTED BARREL, ENHANCED BATTERY, RIMESTEALER
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/action-item-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Hammer, Meet Nail\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=437854388&perks=1955165503,2680121939,1840239774
+dimwishlist:item=437854389&perks=1955165503,2680121939,1840239774
+dimwishlist:item=437854390&perks=1955165503,2680121939,1840239774
+dimwishlist:item=437854391&perks=1955165503,2680121939,1840239774
+dimwishlist:item=527989828&perks=1955165503,2680121939,1840239774
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828): , FLUTED BARREL, ENHANCED BATTERY, RIMESTEALER
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/action-item-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Hammer, Meet Nail\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=437854388&perks=3523296417,2680121939,1840239774
+dimwishlist:item=437854389&perks=3523296417,2680121939,1840239774
+dimwishlist:item=437854390&perks=3523296417,2680121939,1840239774
+dimwishlist:item=437854391&perks=3523296417,2680121939,1840239774
+dimwishlist:item=527989828&perks=3523296417,2680121939,1840239774
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828): , FLUTED BARREL, ENHANCED BATTERY, RIMESTEALER
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/action-item-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Hammer, Meet Nail\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=437854388&perks=3523296417,2680121939,1840239774
+dimwishlist:item=437854389&perks=3523296417,2680121939,1840239774
+dimwishlist:item=437854390&perks=3523296417,2680121939,1840239774
+dimwishlist:item=437854391&perks=3523296417,2680121939,1840239774
+dimwishlist:item=527989828&perks=3523296417,2680121939,1840239774
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828): , FLUTED BARREL, ENHANCED BATTERY, DEMOLITIONIST
+//notes:-- Random Roll --\n\nPVE Tier: Unknown\nPVP Tier: Unknown\nMasterwork(s): \n- - - - - - - - - - - - - - - - - - - - - \nNo PVE notes for this item.\n- - - - - - - - - - - - - - - - - - - - - \nNo PVP notes for this item.\n\n------------------------------------------\nKeywords: _UnknownTier\n
+dimwishlist:item=437854388&perks=3523296417,2680121939,1840239774
+dimwishlist:item=437854389&perks=3523296417,2680121939,1840239774
+dimwishlist:item=437854390&perks=3523296417,2680121939,1840239774
+dimwishlist:item=437854391&perks=3523296417,2680121939,1840239774
+dimwishlist:item=527989828&perks=3523296417,2680121939,1840239774
 
 // ADAMANTITE (2987244302, 3229982889): , FLUTED BARREL, FLARED MAGWELL, RECIPROCITY
 //notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Handling / Stability\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/adamantite-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Flared Magwell\nPerk 1: Reciprocity\nPerk 2: Circle of Life (also good: Attrition Orbs)\nMasterwork: Handling or Stability\nOrigin Trait: Runneth Over\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nMagazine: Accurized Rounds\nPerk 1: Reciprocity\nPerk 2: Kill Clip\nMasterwork: Range\nOrigin Trait: Willing Vessel\n------------------------------------------\nKeywords: #PVE_ATier\n
@@ -24446,6 +24604,52 @@ dimwishlist:item=2755584425&perks=878237828,951095735,3142289711,1263609309
 dimwishlist:item=2755584425&perks=951095735,2635532173,1263609309
 dimwishlist:item=2755584425&perks=951095735,3142289711,1263609309
 
+// REGHUSK'S PLEDGE (2370525224): , FLUTED BARREL, APPENDED MAG, DESTABILIZING ROUNDS
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Reload Speed / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=2370525224&perks=3989629871,2048641572,1087426260,1840239774
+dimwishlist:item=2370525224&perks=2048641572,1087426260,1840239774
+
+// REGHUSK'S PLEDGE (2370525224): , FLUTED BARREL, APPENDED MAG, DESTABILIZING ROUNDS
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Reload Speed / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=2370525224&perks=3989629871,2048641572,1087426260,1840239774
+dimwishlist:item=2370525224&perks=2048641572,1087426260,1840239774
+
+// REGHUSK'S PLEDGE (2370525224): , FLUTED BARREL, APPENDED MAG, DESTABILIZING ROUNDS
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Reload Speed / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=2370525224&perks=3989629871,2048641572,1087426260,1840239774
+dimwishlist:item=2370525224&perks=2048641572,1087426260,1840239774
+
+// REGHUSK'S PLEDGE (2370525224): , FLUTED BARREL, APPENDED MAG, REWIND ROUNDS
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Reload Speed / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=2370525224&perks=3989629871,2578928832,1087426260,1840239774
+dimwishlist:item=2370525224&perks=3989629871,3418782618,1087426260,1840239774
+dimwishlist:item=2370525224&perks=2578928832,1087426260,1840239774
+dimwishlist:item=2370525224&perks=3418782618,1087426260,1840239774
+
+// REGHUSK'S PLEDGE (2370525224): , FLUTED BARREL, APPENDED MAG, REWIND ROUNDS
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Reload Speed / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=2370525224&perks=3989629871,2048641572,1087426260,1840239774
+dimwishlist:item=2370525224&perks=2048641572,1087426260,1840239774
+
+// REGHUSK'S PLEDGE (2370525224): , FLUTED BARREL, APPENDED MAG, REWIND ROUNDS
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Reload Speed / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=2370525224&perks=3989629871,2048641572,1087426260,1840239774
+dimwishlist:item=2370525224&perks=2048641572,1087426260,1840239774
+
+// REGHUSK'S PLEDGE (2370525224): , ARROWHEAD BRAKE, ACCURIZED ROUNDS, DYNAMIC SWAY REDUCTION
+//notes:-- Random Roll --\nUse: PVP\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Range\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVP_BTier\n
+dimwishlist:item=2370525224&perks=3989629871,1359896290,2635532173,839105230
+dimwishlist:item=2370525224&perks=3989629871,1359896290,3142289711,839105230
+dimwishlist:item=2370525224&perks=1359896290,2635532173,839105230
+dimwishlist:item=2370525224&perks=1359896290,3142289711,839105230
+
+// REGHUSK'S PLEDGE (2370525224): , ARROWHEAD BRAKE, ACCURIZED ROUNDS, DYNAMIC SWAY REDUCTION
+//notes:-- Random Roll --\nUse: PVP\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Range\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVP_BTier\n
+dimwishlist:item=2370525224&perks=3989629871,1359896290,2635532173,839105230
+dimwishlist:item=2370525224&perks=3989629871,1359896290,3142289711,839105230
+dimwishlist:item=2370525224&perks=1359896290,2635532173,839105230
+dimwishlist:item=2370525224&perks=1359896290,3142289711,839105230
+
 // REGNANT (268260372): , VOLATILE LAUNCH, SPIKE GRENADES, AUTO-LOADING HOLSTER
 //notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: B\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/regnant-god-rolls/\n------------------------------------------\nPvE god roll\nBarrel: Volatile Launch\nMagazine: Spike Grenades\nPerk 1: Auto-Loading Holster\nPerk 2: Explosive Light\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP god roll\nBarrel: Volatile Launch\nMagazine: High Explosive Ordnance\nPerk 1: Rangefinder\nPerk 2: Unrelenting\nMasterwork: Blast Radius\n------------------------------------------\nKeywords: #PVE_STier\n
 dimwishlist:item=268260372&perks=3300816228,3301904089,332773068
@@ -29332,6 +29536,62 @@ dimwishlist:item=4095896073&perks=3414324643,1885400500,3827198035
 //notes:-- Random Roll --\nUse: PVP\nPVE Tier: S\nPVP Tier: S\nMasterwork(s): Draw Time\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/accrued-redemption-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Elastic String\nArrow: Straight Fletchling\nPerk 1: Successful Warmup or Archer’s Tempo\nPerk 2: Kinetic Tremors (also good: Firefly)\nMasterwork: Draw Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Straight Fletchling\nArrow: Ricochet Rounds\nPerk 1: Archer’s Tempo\nPerk 2: Archer’s Gambit or Swashbuckler\nMasterwork: Draw Time\n------------------------------------------\nKeywords: #PVP_STier\n
 dimwishlist:item=3621336854&perks=4082225868,1885400500,3827198035
 dimwishlist:item=4095896073&perks=4082225868,1885400500,3827198035
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828): , FLUTED BARREL, ENHANCED BATTERY, CRYSTALLINE CORPSEBLOOM
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/action-item-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Hammer, Meet Nail\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=437854388&perks=2922950962,2680121939,1840239774
+dimwishlist:item=437854389&perks=2922950962,2680121939,1840239774
+dimwishlist:item=437854390&perks=2922950962,2680121939,1840239774
+dimwishlist:item=437854391&perks=2922950962,2680121939,1840239774
+dimwishlist:item=527989828&perks=2922950962,2680121939,1840239774
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828): , FLUTED BARREL, ENHANCED BATTERY, HEADSTONE
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/action-item-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Hammer, Meet Nail\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=437854388&perks=124408337,2680121939,1840239774
+dimwishlist:item=437854389&perks=124408337,2680121939,1840239774
+dimwishlist:item=437854390&perks=124408337,2680121939,1840239774
+dimwishlist:item=437854391&perks=124408337,2680121939,1840239774
+dimwishlist:item=527989828&perks=124408337,2680121939,1840239774
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828): , FLUTED BARREL, ENHANCED BATTERY, DETONATOR BEAM
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/action-item-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Hammer, Meet Nail\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=437854388&perks=4198902903,2680121939,1840239774
+dimwishlist:item=437854389&perks=4198902903,2680121939,1840239774
+dimwishlist:item=437854390&perks=4198902903,2680121939,1840239774
+dimwishlist:item=437854391&perks=4198902903,2680121939,1840239774
+dimwishlist:item=527989828&perks=4198902903,2680121939,1840239774
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828): , FLUTED BARREL, ENHANCED BATTERY, CRYSTALLINE CORPSEBLOOM
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/action-item-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Hammer, Meet Nail\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=437854388&perks=2922950962,2680121939,1840239774
+dimwishlist:item=437854389&perks=2922950962,2680121939,1840239774
+dimwishlist:item=437854390&perks=2922950962,2680121939,1840239774
+dimwishlist:item=437854391&perks=2922950962,2680121939,1840239774
+dimwishlist:item=527989828&perks=2922950962,2680121939,1840239774
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828): , FLUTED BARREL, ENHANCED BATTERY, HEADSTONE
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/action-item-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Hammer, Meet Nail\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=437854388&perks=124408337,2680121939,1840239774
+dimwishlist:item=437854389&perks=124408337,2680121939,1840239774
+dimwishlist:item=437854390&perks=124408337,2680121939,1840239774
+dimwishlist:item=437854391&perks=124408337,2680121939,1840239774
+dimwishlist:item=527989828&perks=124408337,2680121939,1840239774
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828): , FLUTED BARREL, ENHANCED BATTERY, DETONATOR BEAM
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/action-item-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Hammer, Meet Nail\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=437854388&perks=4198902903,2680121939,1840239774
+dimwishlist:item=437854389&perks=4198902903,2680121939,1840239774
+dimwishlist:item=437854390&perks=4198902903,2680121939,1840239774
+dimwishlist:item=437854391&perks=4198902903,2680121939,1840239774
+dimwishlist:item=527989828&perks=4198902903,2680121939,1840239774
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828): , FLUTED BARREL, ENHANCED BATTERY, CRYSTALLINE CORPSEBLOOM
+//notes:-- Random Roll --\n\nPVE Tier: Unknown\nPVP Tier: Unknown\nMasterwork(s): \n- - - - - - - - - - - - - - - - - - - - - \nNo PVE notes for this item.\n- - - - - - - - - - - - - - - - - - - - - \nNo PVP notes for this item.\n\n------------------------------------------\nKeywords: _UnknownTier\n
+dimwishlist:item=437854388&perks=2922950962,2680121939,1840239774
+dimwishlist:item=437854389&perks=2922950962,2680121939,1840239774
+dimwishlist:item=437854390&perks=2922950962,2680121939,1840239774
+dimwishlist:item=437854391&perks=2922950962,2680121939,1840239774
+dimwishlist:item=527989828&perks=2922950962,2680121939,1840239774
 
 // ADAMANTITE (2987244302, 3229982889): , FLUTED BARREL, FLARED MAGWELL, CIRCLE OF LIFE
 //notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Handling / Stability\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/adamantite-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Flared Magwell\nPerk 1: Reciprocity\nPerk 2: Circle of Life (also good: Attrition Orbs)\nMasterwork: Handling or Stability\nOrigin Trait: Runneth Over\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nMagazine: Accurized Rounds\nPerk 1: Reciprocity\nPerk 2: Kill Clip\nMasterwork: Range\nOrigin Trait: Willing Vessel\n------------------------------------------\nKeywords: #PVE_ATier\n
@@ -38576,6 +38836,50 @@ dimwishlist:item=2755584425&perks=1683379515,3142289711,1263609309
 dimwishlist:item=2755584425&perks=3871884143,2635532173,1263609309
 dimwishlist:item=2755584425&perks=3871884143,3142289711,1263609309
 
+// REGHUSK'S PLEDGE (2370525224): , FLUTED BARREL, APPENDED MAG, REPULSOR BRACE
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Reload Speed / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=2370525224&perks=3989629871,776531651,1087426260,1840239774
+dimwishlist:item=2370525224&perks=776531651,1087426260,1840239774
+
+// REGHUSK'S PLEDGE (2370525224): , FLUTED BARREL, APPENDED MAG, GOLDEN TRICORN
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Reload Speed / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=2370525224&perks=3989629871,2610012052,1087426260,1840239774
+dimwishlist:item=2370525224&perks=2610012052,1087426260,1840239774
+
+// REGHUSK'S PLEDGE (2370525224): , FLUTED BARREL, APPENDED MAG, ATTRITION ORBS
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Reload Speed / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=2370525224&perks=3989629871,243981275,1087426260,1840239774
+dimwishlist:item=2370525224&perks=243981275,1087426260,1840239774
+
+// REGHUSK'S PLEDGE (2370525224): , FLUTED BARREL, APPENDED MAG, REPULSOR BRACE
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Reload Speed / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=2370525224&perks=3989629871,776531651,1087426260,1840239774
+dimwishlist:item=2370525224&perks=776531651,1087426260,1840239774
+
+// REGHUSK'S PLEDGE (2370525224): , FLUTED BARREL, APPENDED MAG, GOLDEN TRICORN
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Reload Speed / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=2370525224&perks=3989629871,2610012052,1087426260,1840239774
+dimwishlist:item=2370525224&perks=2610012052,1087426260,1840239774
+
+// REGHUSK'S PLEDGE (2370525224): , FLUTED BARREL, APPENDED MAG, ATTRITION ORBS
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Reload Speed / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=2370525224&perks=3989629871,243981275,1087426260,1840239774
+dimwishlist:item=2370525224&perks=243981275,1087426260,1840239774
+
+// REGHUSK'S PLEDGE (2370525224): , ARROWHEAD BRAKE, ACCURIZED ROUNDS, TARGET LOCK
+//notes:-- Random Roll --\nUse: PVP\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Range\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVP_BTier\n
+dimwishlist:item=2370525224&perks=3989629871,365154968,2635532173,839105230
+dimwishlist:item=2370525224&perks=3989629871,365154968,3142289711,839105230
+dimwishlist:item=2370525224&perks=365154968,2635532173,839105230
+dimwishlist:item=2370525224&perks=365154968,3142289711,839105230
+
+// REGHUSK'S PLEDGE (2370525224): , ARROWHEAD BRAKE, ACCURIZED ROUNDS, KILL CLIP
+//notes:-- Random Roll --\nUse: PVP\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Range\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVP_BTier\n
+dimwishlist:item=2370525224&perks=3989629871,1015611457,2635532173,839105230
+dimwishlist:item=2370525224&perks=3989629871,1015611457,3142289711,839105230
+dimwishlist:item=2370525224&perks=1015611457,2635532173,839105230
+dimwishlist:item=2370525224&perks=1015611457,3142289711,839105230
+
 // REGNANT (268260372): , VOLATILE LAUNCH, SPIKE GRENADES, EXPLOSIVE LIGHT
 //notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: B\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/regnant-god-rolls/\n------------------------------------------\nPvE god roll\nBarrel: Volatile Launch\nMagazine: Spike Grenades\nPerk 1: Auto-Loading Holster\nPerk 2: Explosive Light\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP god roll\nBarrel: Volatile Launch\nMagazine: High Explosive Ordnance\nPerk 1: Rangefinder\nPerk 2: Unrelenting\nMasterwork: Blast Radius\n------------------------------------------\nKeywords: #PVE_STier\n
 dimwishlist:item=268260372&perks=3194351027,3301904089,332773068
@@ -43304,6 +43608,62 @@ dimwishlist:item=4095896073&perks=3414324643,201365942,3827198035
 //notes:-- Random Roll --\nUse: PVP\nPVE Tier: S\nPVP Tier: S\nMasterwork(s): Draw Time\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/accrued-redemption-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Elastic String\nArrow: Straight Fletchling\nPerk 1: Successful Warmup or Archer’s Tempo\nPerk 2: Kinetic Tremors (also good: Firefly)\nMasterwork: Draw Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Straight Fletchling\nArrow: Ricochet Rounds\nPerk 1: Archer’s Tempo\nPerk 2: Archer’s Gambit or Swashbuckler\nMasterwork: Draw Time\n------------------------------------------\nKeywords: #PVP_STier\n
 dimwishlist:item=3621336854&perks=4082225868,201365942,3827198035
 dimwishlist:item=4095896073&perks=4082225868,201365942,3827198035
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828): , FLUTED BARREL, DEMOLITIONIST, CRYSTALLINE CORPSEBLOOM
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/action-item-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Hammer, Meet Nail\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=437854388&perks=2922950962,3523296417,1840239774
+dimwishlist:item=437854389&perks=2922950962,3523296417,1840239774
+dimwishlist:item=437854390&perks=2922950962,3523296417,1840239774
+dimwishlist:item=437854391&perks=2922950962,3523296417,1840239774
+dimwishlist:item=527989828&perks=2922950962,3523296417,1840239774
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828): , FLUTED BARREL, DEMOLITIONIST, HEADSTONE
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/action-item-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Hammer, Meet Nail\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=437854388&perks=124408337,3523296417,1840239774
+dimwishlist:item=437854389&perks=124408337,3523296417,1840239774
+dimwishlist:item=437854390&perks=124408337,3523296417,1840239774
+dimwishlist:item=437854391&perks=124408337,3523296417,1840239774
+dimwishlist:item=527989828&perks=124408337,3523296417,1840239774
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828): , FLUTED BARREL, DEMOLITIONIST, DETONATOR BEAM
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/action-item-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Hammer, Meet Nail\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=437854388&perks=4198902903,3523296417,1840239774
+dimwishlist:item=437854389&perks=4198902903,3523296417,1840239774
+dimwishlist:item=437854390&perks=4198902903,3523296417,1840239774
+dimwishlist:item=437854391&perks=4198902903,3523296417,1840239774
+dimwishlist:item=527989828&perks=4198902903,3523296417,1840239774
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828): , FLUTED BARREL, RIMESTEALER, CRYSTALLINE CORPSEBLOOM
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/action-item-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Hammer, Meet Nail\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=437854388&perks=2922950962,1955165503,1840239774
+dimwishlist:item=437854389&perks=2922950962,1955165503,1840239774
+dimwishlist:item=437854390&perks=2922950962,1955165503,1840239774
+dimwishlist:item=437854391&perks=2922950962,1955165503,1840239774
+dimwishlist:item=527989828&perks=2922950962,1955165503,1840239774
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828): , FLUTED BARREL, RIMESTEALER, HEADSTONE
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/action-item-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Hammer, Meet Nail\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=437854388&perks=124408337,3523296417,1840239774
+dimwishlist:item=437854389&perks=124408337,3523296417,1840239774
+dimwishlist:item=437854390&perks=124408337,3523296417,1840239774
+dimwishlist:item=437854391&perks=124408337,3523296417,1840239774
+dimwishlist:item=527989828&perks=124408337,3523296417,1840239774
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828): , FLUTED BARREL, RIMESTEALER, DETONATOR BEAM
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/action-item-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Hammer, Meet Nail\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=437854388&perks=4198902903,3523296417,1840239774
+dimwishlist:item=437854389&perks=4198902903,3523296417,1840239774
+dimwishlist:item=437854390&perks=4198902903,3523296417,1840239774
+dimwishlist:item=437854391&perks=4198902903,3523296417,1840239774
+dimwishlist:item=527989828&perks=4198902903,3523296417,1840239774
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828): , FLUTED BARREL, DEMOLITIONIST, CRYSTALLINE CORPSEBLOOM
+//notes:-- Random Roll --\n\nPVE Tier: Unknown\nPVP Tier: Unknown\nMasterwork(s): \n- - - - - - - - - - - - - - - - - - - - - \nNo PVE notes for this item.\n- - - - - - - - - - - - - - - - - - - - - \nNo PVP notes for this item.\n\n------------------------------------------\nKeywords: _UnknownTier\n
+dimwishlist:item=437854388&perks=2922950962,3523296417,1840239774
+dimwishlist:item=437854389&perks=2922950962,3523296417,1840239774
+dimwishlist:item=437854390&perks=2922950962,3523296417,1840239774
+dimwishlist:item=437854391&perks=2922950962,3523296417,1840239774
+dimwishlist:item=527989828&perks=2922950962,3523296417,1840239774
 
 // ADAMANTITE (2987244302, 3229982889): , FLUTED BARREL, RECIPROCITY, CIRCLE OF LIFE
 //notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Handling / Stability\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/adamantite-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Flared Magwell\nPerk 1: Reciprocity\nPerk 2: Circle of Life (also good: Attrition Orbs)\nMasterwork: Handling or Stability\nOrigin Trait: Runneth Over\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nMagazine: Accurized Rounds\nPerk 1: Reciprocity\nPerk 2: Kill Clip\nMasterwork: Range\nOrigin Trait: Willing Vessel\n------------------------------------------\nKeywords: #PVE_ATier\n
@@ -52099,6 +52459,48 @@ dimwishlist:item=2755584425&perks=878237828,3871884143,951095735,1263609309
 dimwishlist:item=2755584425&perks=1683379515,951095735,1263609309
 dimwishlist:item=2755584425&perks=3871884143,951095735,1263609309
 
+// REGHUSK'S PLEDGE (2370525224): , FLUTED BARREL, DESTABILIZING ROUNDS, REPULSOR BRACE
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Reload Speed / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=2370525224&perks=3989629871,776531651,2048641572,1840239774
+dimwishlist:item=2370525224&perks=776531651,2048641572,1840239774
+
+// REGHUSK'S PLEDGE (2370525224): , FLUTED BARREL, DESTABILIZING ROUNDS, GOLDEN TRICORN
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Reload Speed / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=2370525224&perks=3989629871,2610012052,2048641572,1840239774
+dimwishlist:item=2370525224&perks=2610012052,2048641572,1840239774
+
+// REGHUSK'S PLEDGE (2370525224): , FLUTED BARREL, DESTABILIZING ROUNDS, ATTRITION ORBS
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Reload Speed / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=2370525224&perks=3989629871,243981275,2048641572,1840239774
+dimwishlist:item=2370525224&perks=243981275,2048641572,1840239774
+
+// REGHUSK'S PLEDGE (2370525224): , FLUTED BARREL, REWIND ROUNDS, REPULSOR BRACE
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Reload Speed / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=2370525224&perks=3989629871,776531651,2578928832,1840239774
+dimwishlist:item=2370525224&perks=3989629871,776531651,3418782618,1840239774
+dimwishlist:item=2370525224&perks=776531651,2578928832,1840239774
+dimwishlist:item=2370525224&perks=776531651,3418782618,1840239774
+
+// REGHUSK'S PLEDGE (2370525224): , FLUTED BARREL, REWIND ROUNDS, GOLDEN TRICORN
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Reload Speed / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=2370525224&perks=3989629871,2610012052,2048641572,1840239774
+dimwishlist:item=2370525224&perks=2610012052,2048641572,1840239774
+
+// REGHUSK'S PLEDGE (2370525224): , FLUTED BARREL, REWIND ROUNDS, ATTRITION ORBS
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Reload Speed / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=2370525224&perks=3989629871,243981275,2048641572,1840239774
+dimwishlist:item=2370525224&perks=243981275,2048641572,1840239774
+
+// REGHUSK'S PLEDGE (2370525224): , ARROWHEAD BRAKE, DYNAMIC SWAY REDUCTION, TARGET LOCK
+//notes:-- Random Roll --\nUse: PVP\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Range\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVP_BTier\n
+dimwishlist:item=2370525224&perks=3989629871,365154968,1359896290,839105230
+dimwishlist:item=2370525224&perks=365154968,1359896290,839105230
+
+// REGHUSK'S PLEDGE (2370525224): , ARROWHEAD BRAKE, DYNAMIC SWAY REDUCTION, KILL CLIP
+//notes:-- Random Roll --\nUse: PVP\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Range\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVP_BTier\n
+dimwishlist:item=2370525224&perks=3989629871,1015611457,1359896290,839105230
+dimwishlist:item=2370525224&perks=1015611457,1359896290,839105230
+
 // REGNANT (268260372): , VOLATILE LAUNCH, AUTO-LOADING HOLSTER, EXPLOSIVE LIGHT
 //notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: B\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/regnant-god-rolls/\n------------------------------------------\nPvE god roll\nBarrel: Volatile Launch\nMagazine: Spike Grenades\nPerk 1: Auto-Loading Holster\nPerk 2: Explosive Light\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP god roll\nBarrel: Volatile Launch\nMagazine: High Explosive Ordnance\nPerk 1: Rangefinder\nPerk 2: Unrelenting\nMasterwork: Blast Radius\n------------------------------------------\nKeywords: #PVE_STier\n
 dimwishlist:item=268260372&perks=3194351027,3300816228,332773068
@@ -57065,6 +57467,62 @@ dimwishlist:item=4095896073&perks=3414324643,201365942,1885400500
 //notes:-- Random Roll --\nUse: PVP\nPVE Tier: S\nPVP Tier: S\nMasterwork(s): Draw Time\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/accrued-redemption-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Elastic String\nArrow: Straight Fletchling\nPerk 1: Successful Warmup or Archer’s Tempo\nPerk 2: Kinetic Tremors (also good: Firefly)\nMasterwork: Draw Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Straight Fletchling\nArrow: Ricochet Rounds\nPerk 1: Archer’s Tempo\nPerk 2: Archer’s Gambit or Swashbuckler\nMasterwork: Draw Time\n------------------------------------------\nKeywords: #PVP_STier\n
 dimwishlist:item=3621336854&perks=4082225868,201365942,1885400500
 dimwishlist:item=4095896073&perks=4082225868,201365942,1885400500
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828): , ENHANCED BATTERY, DEMOLITIONIST, CRYSTALLINE CORPSEBLOOM
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/action-item-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Hammer, Meet Nail\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=437854388&perks=2922950962,3523296417,2680121939
+dimwishlist:item=437854389&perks=2922950962,3523296417,2680121939
+dimwishlist:item=437854390&perks=2922950962,3523296417,2680121939
+dimwishlist:item=437854391&perks=2922950962,3523296417,2680121939
+dimwishlist:item=527989828&perks=2922950962,3523296417,2680121939
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828): , ENHANCED BATTERY, DEMOLITIONIST, HEADSTONE
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/action-item-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Hammer, Meet Nail\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=437854388&perks=124408337,3523296417,2680121939
+dimwishlist:item=437854389&perks=124408337,3523296417,2680121939
+dimwishlist:item=437854390&perks=124408337,3523296417,2680121939
+dimwishlist:item=437854391&perks=124408337,3523296417,2680121939
+dimwishlist:item=527989828&perks=124408337,3523296417,2680121939
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828): , ENHANCED BATTERY, DEMOLITIONIST, DETONATOR BEAM
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/action-item-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Hammer, Meet Nail\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=437854388&perks=4198902903,3523296417,2680121939
+dimwishlist:item=437854389&perks=4198902903,3523296417,2680121939
+dimwishlist:item=437854390&perks=4198902903,3523296417,2680121939
+dimwishlist:item=437854391&perks=4198902903,3523296417,2680121939
+dimwishlist:item=527989828&perks=4198902903,3523296417,2680121939
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828): , ENHANCED BATTERY, RIMESTEALER, CRYSTALLINE CORPSEBLOOM
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/action-item-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Hammer, Meet Nail\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=437854388&perks=2922950962,1955165503,2680121939
+dimwishlist:item=437854389&perks=2922950962,1955165503,2680121939
+dimwishlist:item=437854390&perks=2922950962,1955165503,2680121939
+dimwishlist:item=437854391&perks=2922950962,1955165503,2680121939
+dimwishlist:item=527989828&perks=2922950962,1955165503,2680121939
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828): , ENHANCED BATTERY, RIMESTEALER, HEADSTONE
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/action-item-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Hammer, Meet Nail\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=437854388&perks=124408337,3523296417,2680121939
+dimwishlist:item=437854389&perks=124408337,3523296417,2680121939
+dimwishlist:item=437854390&perks=124408337,3523296417,2680121939
+dimwishlist:item=437854391&perks=124408337,3523296417,2680121939
+dimwishlist:item=527989828&perks=124408337,3523296417,2680121939
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828): , ENHANCED BATTERY, RIMESTEALER, DETONATOR BEAM
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: C\nMasterwork(s): Reload Speed\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/action-item-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Hammer, Meet Nail\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=437854388&perks=4198902903,3523296417,2680121939
+dimwishlist:item=437854389&perks=4198902903,3523296417,2680121939
+dimwishlist:item=437854390&perks=4198902903,3523296417,2680121939
+dimwishlist:item=437854391&perks=4198902903,3523296417,2680121939
+dimwishlist:item=527989828&perks=4198902903,3523296417,2680121939
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828): , ENHANCED BATTERY, DEMOLITIONIST, CRYSTALLINE CORPSEBLOOM
+//notes:-- Random Roll --\n\nPVE Tier: Unknown\nPVP Tier: Unknown\nMasterwork(s): \n- - - - - - - - - - - - - - - - - - - - - \nNo PVE notes for this item.\n- - - - - - - - - - - - - - - - - - - - - \nNo PVP notes for this item.\n\n------------------------------------------\nKeywords: _UnknownTier\n
+dimwishlist:item=437854388&perks=2922950962,3523296417,2680121939
+dimwishlist:item=437854389&perks=2922950962,3523296417,2680121939
+dimwishlist:item=437854390&perks=2922950962,3523296417,2680121939
+dimwishlist:item=437854391&perks=2922950962,3523296417,2680121939
+dimwishlist:item=527989828&perks=2922950962,3523296417,2680121939
 
 // ADAMANTITE (2987244302, 3229982889): , FLARED MAGWELL, RECIPROCITY, CIRCLE OF LIFE
 //notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Handling / Stability\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/adamantite-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Flared Magwell\nPerk 1: Reciprocity\nPerk 2: Circle of Life (also good: Attrition Orbs)\nMasterwork: Handling or Stability\nOrigin Trait: Runneth Over\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nMagazine: Accurized Rounds\nPerk 1: Reciprocity\nPerk 2: Kill Clip\nMasterwork: Range\nOrigin Trait: Willing Vessel\n------------------------------------------\nKeywords: #PVE_ATier\n
@@ -66719,6 +67177,52 @@ dimwishlist:item=2755584425&perks=1683379515,951095735,3142289711
 dimwishlist:item=2755584425&perks=3871884143,951095735,2635532173
 dimwishlist:item=2755584425&perks=3871884143,951095735,3142289711
 
+// REGHUSK'S PLEDGE (2370525224): , APPENDED MAG, DESTABILIZING ROUNDS, REPULSOR BRACE
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Reload Speed / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=2370525224&perks=3989629871,776531651,2048641572,1087426260
+dimwishlist:item=2370525224&perks=776531651,2048641572,1087426260
+
+// REGHUSK'S PLEDGE (2370525224): , APPENDED MAG, DESTABILIZING ROUNDS, GOLDEN TRICORN
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Reload Speed / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=2370525224&perks=3989629871,2610012052,2048641572,1087426260
+dimwishlist:item=2370525224&perks=2610012052,2048641572,1087426260
+
+// REGHUSK'S PLEDGE (2370525224): , APPENDED MAG, DESTABILIZING ROUNDS, ATTRITION ORBS
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Reload Speed / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=2370525224&perks=3989629871,243981275,2048641572,1087426260
+dimwishlist:item=2370525224&perks=243981275,2048641572,1087426260
+
+// REGHUSK'S PLEDGE (2370525224): , APPENDED MAG, REWIND ROUNDS, REPULSOR BRACE
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Reload Speed / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=2370525224&perks=3989629871,776531651,2578928832,1087426260
+dimwishlist:item=2370525224&perks=3989629871,776531651,3418782618,1087426260
+dimwishlist:item=2370525224&perks=776531651,2578928832,1087426260
+dimwishlist:item=2370525224&perks=776531651,3418782618,1087426260
+
+// REGHUSK'S PLEDGE (2370525224): , APPENDED MAG, REWIND ROUNDS, GOLDEN TRICORN
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Reload Speed / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=2370525224&perks=3989629871,2610012052,2048641572,1087426260
+dimwishlist:item=2370525224&perks=2610012052,2048641572,1087426260
+
+// REGHUSK'S PLEDGE (2370525224): , APPENDED MAG, REWIND ROUNDS, ATTRITION ORBS
+//notes:-- Random Roll --\nUse: PVE\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Reload Speed / Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVE_ATier\n
+dimwishlist:item=2370525224&perks=3989629871,243981275,2048641572,1087426260
+dimwishlist:item=2370525224&perks=243981275,2048641572,1087426260
+
+// REGHUSK'S PLEDGE (2370525224): , ACCURIZED ROUNDS, DYNAMIC SWAY REDUCTION, TARGET LOCK
+//notes:-- Random Roll --\nUse: PVP\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Range\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVP_BTier\n
+dimwishlist:item=2370525224&perks=3989629871,365154968,1359896290,2635532173
+dimwishlist:item=2370525224&perks=3989629871,365154968,1359896290,3142289711
+dimwishlist:item=2370525224&perks=365154968,1359896290,2635532173
+dimwishlist:item=2370525224&perks=365154968,1359896290,3142289711
+
+// REGHUSK'S PLEDGE (2370525224): , ACCURIZED ROUNDS, DYNAMIC SWAY REDUCTION, KILL CLIP
+//notes:-- Random Roll --\nUse: PVP\nPVE Tier: A\nPVP Tier: B\nMasterwork(s): Range\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: #PVP_BTier\n
+dimwishlist:item=2370525224&perks=3989629871,1015611457,1359896290,2635532173
+dimwishlist:item=2370525224&perks=3989629871,1015611457,1359896290,3142289711
+dimwishlist:item=2370525224&perks=1015611457,1359896290,2635532173
+dimwishlist:item=2370525224&perks=1015611457,1359896290,3142289711
+
 // REGNANT (268260372): , SPIKE GRENADES, AUTO-LOADING HOLSTER, EXPLOSIVE LIGHT
 //notes:-- Random Roll --\nUse: PVE\nPVE Tier: S\nPVP Tier: B\nMasterwork(s): Handling\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/regnant-god-rolls/\n------------------------------------------\nPvE god roll\nBarrel: Volatile Launch\nMagazine: Spike Grenades\nPerk 1: Auto-Loading Holster\nPerk 2: Explosive Light\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP god roll\nBarrel: Volatile Launch\nMagazine: High Explosive Ordnance\nPerk 1: Rangefinder\nPerk 2: Unrelenting\nMasterwork: Blast Radius\n------------------------------------------\nKeywords: #PVE_STier\n
 dimwishlist:item=268260372&perks=3194351027,3300816228,3301904089
@@ -71465,6 +71969,9 @@ dimwishlist:item=1863583117&perks=1164078247,95528736,2387244414,2969185026
 dimwishlist:item=1863583117&perks=95528736,2387244414,2969185026
 // * * * * * TRASHLIST * * * * * //
 
+// MICROMORT (474671201, 602331464, 602331465, 602331466, 602331467) DEFINED ROLL: 
+//notes:-- Trash Roll --\n\nPVE Tier: C\nPVP Tier: C\n\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/micromort-god-rolls/\n------------------------------------------\nC Tier: DO NOT USE!\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: 
+
 // NOX SIDEREAL IV (74733286, 2875763009) DEFINED ROLL: 
 //notes:-- Trash Roll --\n\nPVE Tier: C\nPVP Tier: D\n\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/nox-sidereal-iv-god-rolls/\n------------------------------------------\nC Tier: DO NOT USE!\n- - - - - - - - - - - - - - - - - - - - - \nD Tier: DO NOT USE!\n------------------------------------------\nKeywords: 
 
@@ -71507,6 +72014,14 @@ dimwishlist:item=-3054597646
 //notes:-- Trash Roll --\n\nPVE Tier: S\nPVP Tier: S\n\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/accrued-redemption-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Elastic String\nArrow: Straight Fletchling\nPerk 1: Successful Warmup or Archer’s Tempo\nPerk 2: Kinetic Tremors (also good: Firefly)\nMasterwork: Draw Time\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Straight Fletchling\nArrow: Ricochet Rounds\nPerk 1: Archer’s Tempo\nPerk 2: Archer’s Gambit or Swashbuckler\nMasterwork: Draw Time\n------------------------------------------\nKeywords: 
 dimwishlist:item=-3621336854
 dimwishlist:item=-4095896073
+
+// ACTION ITEM (437854388, 437854389, 437854390, 437854391, 527989828) CATCHALL: 
+//notes:-- Trash Roll --\n\nPVE Tier: A\nPVP Tier: C\n\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/action-item-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Hammer, Meet Nail\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: 
+dimwishlist:item=-437854388
+dimwishlist:item=-437854389
+dimwishlist:item=-437854390
+dimwishlist:item=-437854391
+dimwishlist:item=-527989828
 
 // ADAMANTITE (2987244302, 3229982889) CATCHALL: 
 //notes:-- Trash Roll --\n\nPVE Tier: A\nPVP Tier: B\n\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/adamantite-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Flared Magwell\nPerk 1: Reciprocity\nPerk 2: Circle of Life (also good: Attrition Orbs)\nMasterwork: Handling or Stability\nOrigin Trait: Runneth Over\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nMagazine: Accurized Rounds\nPerk 1: Reciprocity\nPerk 2: Kill Clip\nMasterwork: Range\nOrigin Trait: Willing Vessel\n------------------------------------------\nKeywords: 
@@ -72321,6 +72836,14 @@ dimwishlist:item=-3871226707
 //notes:-- Trash Roll --\n\nPVE Tier: B\nPVP Tier: B\n\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/mercury-a-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBowstring: Polymer String\nArrow: Compact Arrow Shaft\nPerk 1: Successful Warm-Up\nPerk 2: Kinetic Tremors\nMasterwork: Handling or Draw Time\nOrigin Trait: Vanguard Determination\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBowstring: Natural String\nArrow: Helical Fletching\nPerk 1: Successful Warm-Up\nPerk 2: Precision Instrument\nMasterwork: Accuracy or Handling\nOrigin Trait: Tenacity\n------------------------------------------\nKeywords: 
 dimwishlist:item=-2838279629
 
+// MICROMORT (474671201, 602331464, 602331465, 602331466, 602331467) CATCHALL: 
+//notes:-- Trash Roll --\n\nPVE Tier: C\nPVP Tier: C\n\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/micromort-god-rolls/\n------------------------------------------\nC Tier: DO NOT USE!\n- - - - - - - - - - - - - - - - - - - - - \nC Tier: DO NOT USE!\n------------------------------------------\nKeywords: 
+dimwishlist:item=-474671201
+dimwishlist:item=-602331464
+dimwishlist:item=-602331465
+dimwishlist:item=-602331466
+dimwishlist:item=-602331467
+
 // MIDA MACRO-TOOL (2699423382) CATCHALL: 
 //notes:-- Trash Roll --\n\nPVE Tier: B\nPVP Tier: S\n\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/mida-macro-tool-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Barrel Shroud\nMagazine: Assault Mag\nPerk 1: Grave Robber (also good: Discord)\nPerk 2: One-Two Punch (also good: Trench Barrel)\nMasterwork: Range\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Smallbore\nMagazine: Accurized Rounds\nPerk 1: Threat Detector (also good: Slideshot)\nPerk 2: Opening Shot (also good: Closing Time)\nMasterwork: Range\n------------------------------------------\nKeywords: 
 dimwishlist:item=-2699423382
@@ -72610,6 +73133,10 @@ dimwishlist:item=-3269398063
 //notes:-- Trash Roll --\n\nPVE Tier: A\nPVP Tier: B\n\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/refusal-of-the-call-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nHaft: Tempered Truss Rod\nMagazine: Swap Mag\nPerk 1: Discord (also good: Slice)\nPerk 2: Sword Logic (also good: Close to Melee)\nMasterwork: Handling\nOrigin Trait: Willing Vessel\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nHaft: Ballistic Tuning\nMagazine: Accurized Rounds\nPerk 1: Impulse Amplifier\nPerk 2: Disruption Break\nMasterwork: Range\nOrigin Trait: Willing Vessel\n------------------------------------------\nKeywords: 
 dimwishlist:item=-25228802
 dimwishlist:item=-2755584425
+
+// REGHUSK'S PLEDGE (2370525224) CATCHALL: 
+//notes:-- Trash Roll --\n\nPVE Tier: A\nPVP Tier: B\n\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/reghusks-pledge-god-rolls/\n------------------------------------------\nPvE Roll: All-Around\nBarrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf\n- - - - - - - - - - - - - - - - - - - - - \nPvP Roll: All-Around\nBarrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf\n------------------------------------------\nKeywords: 
+dimwishlist:item=-2370525224
 
 // REGNANT (268260372) CATCHALL: 
 //notes:-- Trash Roll --\n\nPVE Tier: S\nPVP Tier: B\n\n- - - - - - - - - - - - - - - - - - - - - \nSource: https://www.blueberries.gg/weapons/regnant-god-rolls/\n------------------------------------------\nPvE god roll\nBarrel: Volatile Launch\nMagazine: Spike Grenades\nPerk 1: Auto-Loading Holster\nPerk 2: Explosive Light\nMasterwork: Handling\n- - - - - - - - - - - - - - - - - - - - - \nPvP god roll\nBarrel: Volatile Launch\nMagazine: High Explosive Ordnance\nPerk 1: Rangefinder\nPerk 2: Unrelenting\nMasterwork: Blast Radius\n------------------------------------------\nKeywords: 
